@@ -1,0 +1,17 @@
+---
+title: "About"
+image: www/images/ties-sfw/glitch.jpg
+about:
+  template: jolla
+  links:
+    - icon: fire
+      text: FetLife
+      href: https://fetlife.com/users/16247449
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/setonix.shibari
+
+---
+
+I attended my first shibari workshop in October 2023 and quickly became hooked on rope. I'm known for colourful self-tied corsets and intricate improvised designs.
+

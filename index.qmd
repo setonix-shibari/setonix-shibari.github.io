@@ -1,0 +1,18 @@
+---
+title: ""
+listing:
+  contents: posts
+  include: 
+    frontpage: true
+  sort: "date desc"
+  type: grid
+  max-items: 3
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  date-format: iso
+page-layout: full
+title-block-banner: false
+---
+
+
