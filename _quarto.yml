@@ -2,7 +2,7 @@ lang: en
 project:
   type: website
   output-dir: docs
-  resources: [www/images]
+  resources: [CNAME, www/images]
 
 execute:
   freeze: auto
