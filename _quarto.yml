@@ -2,7 +2,7 @@ lang: en
 project:
   type: website
   output-dir: docs
-  resources: [CNAME, www/images]
+  resources: [CNAME, .nojekyll, www/images]
 
 execute:
   freeze: auto
