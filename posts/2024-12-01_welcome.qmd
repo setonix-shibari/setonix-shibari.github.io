@@ -1,6 +1,6 @@
 ---
 title: I have a website!
-date: 2024-12-08
+date: 2024-12-01
 categories: []
 image: ../www/images/ties-sfw/rainbow-legs.jpg
 frontpage: true

@@ -11,6 +11,7 @@ listing:
   sort-ui: false
   filter-ui: false
   date-format: iso
+  image-height: 200px
 page-layout: full
 title-block-banner: false
 ---

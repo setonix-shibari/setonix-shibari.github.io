@@ -1,12 +1,12 @@
 name: Render and Publish
-# on:
-#   push:
-#     branches:
-#       - main  # changes pushed to this branch will trigger a build.
+on:
+  push:
+    branches:
+      - main  # changes pushed to this branch will trigger a build.
 
 #configure manual trigger
-on:
-  workflow_dispatch:
+# on:
+#   workflow_dispatch:
 
 jobs:
   build-deploy:
