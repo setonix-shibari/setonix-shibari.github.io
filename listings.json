@@ -1,14 +1,16 @@
 [
   {
-    "listing": "/posts/index.html",
+    "listing": "/index.html",
     "items": [
-      "/posts/2024-12-08_welcome.html"
+      "/posts/2024-12-06_pca.html",
+      "/posts/2024-12-01_welcome.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/posts/index.html",
     "items": [
-      "/posts/2024-12-08_welcome.html"
+      "/posts/2024-12-06_pca.html",
+      "/posts/2024-12-01_welcome.html"
     ]
   }
 ]

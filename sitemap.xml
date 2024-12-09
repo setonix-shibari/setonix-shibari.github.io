@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://setonix.art/posts/index.html</loc>
-    <lastmod>2024-12-08T17:44:00.984Z</lastmod>
+    <loc>https://setonix.art/posts/2024-12-01_welcome.html</loc>
+    <lastmod>2024-12-09T10:31:48.905Z</lastmod>
   </url>
   <url>
-    <loc>https://setonix.art/index.html</loc>
-    <lastmod>2024-12-08T17:44:00.984Z</lastmod>
+    <loc>https://setonix.art/posts/2024-12-06_pca.html</loc>
+    <lastmod>2024-12-09T10:31:48.905Z</lastmod>
   </url>
   <url>
     <loc>https://setonix.art/about.html</loc>
-    <lastmod>2024-12-08T17:44:00.984Z</lastmod>
+    <lastmod>2024-12-09T10:31:48.905Z</lastmod>
   </url>
   <url>
-    <loc>https://setonix.art/posts/2024-12-08_welcome.html</loc>
-    <lastmod>2024-12-08T17:44:00.984Z</lastmod>
+    <loc>https://setonix.art/index.html</loc>
+    <lastmod>2024-12-09T10:31:48.905Z</lastmod>
+  </url>
+  <url>
+    <loc>https://setonix.art/posts/index.html</loc>
+    <lastmod>2024-12-09T10:31:48.905Z</lastmod>
   </url>
 </urlset>
