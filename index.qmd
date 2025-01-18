@@ -1,6 +1,7 @@
 ---
 title: ""
 listing:
+  id: front-page-listings
   contents: posts
   include: 
     frontpage: true
@@ -17,3 +18,8 @@ title-block-banner: false
 ---
 
 
+
+::: {#front-page-listings}
+:::
+
+See [more posts](posts/) to search for photos, videos, and tutorials.

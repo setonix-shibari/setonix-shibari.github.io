@@ -1,5 +1,5 @@
 ---
-title: Heart Friction
+title: Heart Friction Tutorial
 date: 2025-01-16
 categories: [tutorial, video, self-tie]
 image: ../www/images/ties-sfw/heart-friction.jpg

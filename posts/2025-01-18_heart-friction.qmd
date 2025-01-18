@@ -1,0 +1,13 @@
+---
+title: Heart Friction Tie
+date: 2025-01-18
+categories: [photo, corset, self-tie]
+image: ../www/images/ties-nsfw/heart-friction.jpg
+image-alt: A topless female torso with dark red panties, wearing a red rope corset featuring 4 heart-shaped frictions down the front.
+frontpage: false
+description: A corset with heart-shaped frictions
+---
+
+![](../www/images/ties-nsfw/heart-friction.jpg)
+
+See the [brief tutorial](2025-01-16_heart-friction.qmd) for how to make the heart-shaped frictions.
