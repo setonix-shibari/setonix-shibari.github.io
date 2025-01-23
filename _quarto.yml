@@ -1,0 +1,32 @@
+lang: en
+project:
+  type: website
+  output-dir: docs
+  resources: [CNAME, .nojekyll]
+
+execute:
+  freeze: auto
+
+website:
+  title: "Setonix"
+  image: www/images/logos/setonix-black.png
+  site-url: https://setonix.art
+  navbar:
+    logo: www/images/logos/setonix-white.png
+    logo-alt: "Setonix"
+    right:
+      - about.qmd
+      - posts/index.qmd
+      - icon: fire
+        href: https://fetlife.com/users/16247449
+      - icon: instagram
+        href: https://instagram.com/setonix.shibari
+      - icon: tumblr
+        href: https://www.tumblr.com/setonix-shibari
+format:
+  html:
+    theme: [darkly, www/styles.scss]
+    fontsize: 1.1em
+
+
+

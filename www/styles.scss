@@ -1,0 +1,51 @@
+/*-- scss:defaults --*/
+$primary: #333333;
+
+/*-- scss:rules --*/
+
+:root {
+  --red: #A1343099; 
+  --orange: #BF613A99;
+  --yellow: #EFBF5C99;
+  --green: #406C2699; 
+  --blue: #3356A999; 
+  --purple: #5B3FA699;
+}
+
+/* rainbow borders */
+nav {
+  margin-bottom: 18px;
+  box-shadow: 0 3px 0 0px var(--red),
+              0 6px 0 0px var(--orange),
+              0 9px 0 0px var(--yellow),
+              0 12px 0 0px var(--green),
+              0 15px 0 0px var(--blue),
+              0 18px 0 0px var(--purple);
+}
+
+.navbar-title { display: none; }
+.navbar-logo { max-height: 1.5em; }
+
+.list.grid > div {
+  border: 3px solid var(--red);
+}
+.list.grid > div:nth-child(2),
+.list.grid > div:nth-child(8) {
+  border: 3px solid var(--orange);
+}
+.list.grid > div:nth-child(3),
+.list.grid > div:nth-child(9) {
+  border: 3px solid var(--yellow);
+}
+.list.grid > div:nth-child(4),
+.list.grid > div:nth-child(10) {
+  border: 3px solid var(--green);
+}
+.list.grid > div:nth-child(5),
+.list.grid > div:nth-child(11) {
+  border: 3px solid var(--blue);
+}
+.list.grid > div:nth-child(6),
+.list.grid > div:nth-child(12) {
+  border: 3px solid var(--purple);
+}

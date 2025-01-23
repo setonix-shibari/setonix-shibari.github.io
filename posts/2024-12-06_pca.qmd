@@ -1,0 +1,13 @@
+---
+title: 2024 Pervert's Choice Award
+date: 2024-12-06
+categories: [award, fetlife]
+image: ../www/images/ties-sfw/2024-calendar.jpg
+image-alt: "12 pictures of shibari ties"
+frontpage: true
+description: I'm so flattered to have won the Best Shibari category of the 2024 Pervert's Choice Awards on FetLife.
+---
+
+It's a highly unofficial award, with the most chaotic nomination and voting procedure, but still such a lovely way to spread positivity.
+
+![A (SFW-ish) picture from each month of 2024](../www/images/ties-sfw/2024-calendar.jpg)

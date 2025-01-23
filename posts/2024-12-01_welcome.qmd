@@ -1,0 +1,9 @@
+---
+title: I have a website!
+date: 2024-12-01
+categories: []
+image: ../www/images/ties-sfw/rainbow-legs.jpg
+frontpage: false
+---
+
+Hi! I'm starting a website so I have a bit more control over what I post and can put tutorials up in a way that works for me. Be patient while I get things started.

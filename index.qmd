@@ -1,0 +1,25 @@
+---
+title: ""
+listing:
+  id: front-page-listings
+  contents: posts
+  include: 
+    frontpage: true
+  sort: "date desc"
+  type: grid
+  max-items: 6
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  date-format: iso
+  image-height: 200px
+page-layout: full
+title-block-banner: false
+---
+
+
+
+::: {#front-page-listings}
+:::
+
+See [more posts](posts/) to search for photos, videos, and tutorials.
