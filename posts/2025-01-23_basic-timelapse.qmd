@@ -1,0 +1,17 @@
+---
+title: Basic Corset Timelapse
+date: 2025-01-23
+categories: [timelapse, video, self-tie]
+image: ../www/images/ties-sfw/basic-tl.jpg
+image-alt: ""
+frontpage: false
+description: A timelapse of the base and boning of a basic corset
+---
+
+The base...
+
+{{< video ../www/videos/setonix-basic-base-tl.mp4 width="512" >}}
+
+...and the boning
+
+{{< video ../www/videos/setonix-basic-boning-tl.mp4 width="512" >}}
