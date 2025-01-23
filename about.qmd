@@ -10,6 +10,11 @@ about:
     - icon: instagram
       text: Instagram
       href: https://instagram.com/setonix.shibari
+    - icon: tumblr
+      text: Tumblr
+      href: https://www.tumblr.com/setonix-shibari
+    - text: "![](www/images/logos/bsky.svg){height='1em'}"
+      href: https://bsky.app/profile/setonix-shibari.bsky.social
 
 ---
 

@@ -1,0 +1,11 @@
+---
+title: Back Friction Demo
+date: 2025-01-23
+categories: [video, corset, self-tie, demo]
+image: ../www/images/ties-nsfw/back-friction.jpg
+image-alt: A topless female torso in child's pose with dark red panties, wearing a red rope corset featuring symmetric munter hitches down the back
+frontpage: true
+description: A demo of how I tie symmetric munter hitches in the back with less flexibility than needed to fasten a bra.
+---
+
+{{< video ../www/videos/setonix-back-frictions.mp4 width="480" >}}
