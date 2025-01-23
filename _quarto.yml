@@ -11,6 +11,10 @@ website:
   title: "Setonix"
   image: www/images/logos/setonix-black.png
   site-url: https://setonix.art
+  google-analytics: 
+    tracking-id: "G-L42NDQR8R1"
+    anonymize-ip: true
+    storage: none
   navbar:
     logo: www/images/logos/setonix-white.png
     logo-alt: "Setonix"
