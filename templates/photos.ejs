@@ -3,6 +3,7 @@
 <% for (const item of items) { %>
   <li <%= metadataAttrs(item) %>>
       <a href="<%= item.path %>">
+         <span class="listing-name"><%= item.name %></span>
          <img src="<%- item.image %>" title="<%= item.title %>">
       </a<
   </li>
