@@ -1,4 +1,5 @@
 <div id="age-verification">
+    <br style="height: 45vh">
     <button id="confirm" onclick="setCookieAndAllowAccess()">I am 18 or older</button>
     <button id="deny" onclick="denyAccess()">I am under 18</button>
 </div>

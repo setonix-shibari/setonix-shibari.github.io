@@ -11,10 +11,6 @@ website:
   title: "Setonix"
   image: www/images/logos/setonix-black.png
   site-url: https://setonix.art
-  cookie-consent:
-    type: express
-    style: standalone
-    palette: dark
   google-analytics: 
     tracking-id: "G-L42NDQR8R1"
     anonymize-ip: true
@@ -43,7 +39,7 @@ format:
   html:
     theme: [darkly, www/styles.scss]
     fontsize: 1.1em
-    include-after-body: www/setonix.js
+#    include-after-body: www/setonix.js
 
 
 
