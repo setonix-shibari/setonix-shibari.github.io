@@ -1,6 +1,6 @@
 ---
 title: Chest Rosette
-categories: [photo, rosette, nsfw, corset]
+categories: [photo, rosettes, nsfw, corset]
 image: ../www/images/ties/grid-red-blue.jpg
 image-alt: ""
 credits: 
@@ -11,5 +11,5 @@ credits:
   ropes: Casual Rope
 ---
 
-![](../www/images/ties/chest-rosette.jpg)
+![](../www/images/ties/grid-red-blue.jpg)
 

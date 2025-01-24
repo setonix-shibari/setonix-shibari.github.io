@@ -1,6 +1,6 @@
 ---
 title: Orange & Blue Corset
-categories: [photo., nsfw, corset]
+categories: [photo, nsfw, corset]
 image: ../www/images/ties/grid-orange-blue.jpg
 image-alt: ""
 credits: 

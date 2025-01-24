@@ -1,6 +1,6 @@
 ---
 title: Fire Spiderweb
-categories: [photo]
+categories: [photo, nsfw, spiderweb, corset]
 image: ../www/images/ties/fire-spiderweb.jpg
 image-alt: ""
 ---
