@@ -25,7 +25,7 @@ website:
         href: https://fetlife.com/users/16247449
       - icon: instagram
         href: https://instagram.com/setonix.shibari
-      - icon: tumblr
+      - text: "![](/www/images/logos/tumblr.svg){height='1em'}"
         href: https://www.tumblr.com/setonix-shibari
       - text: "![](/www/images/logos/bsky.svg){height='1em'}"
         href: https://bsky.app/profile/setonix-shibari.bsky.social
