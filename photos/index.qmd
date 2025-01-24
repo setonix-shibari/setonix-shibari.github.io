@@ -9,7 +9,7 @@ listing:
   sort-ui: false
   filter-ui: true
   date-format: iso
-  fields: [date, title, image, description, categories]
+  fields: [title, image, categories]
 page-layout: full
 title-block-banner: false
 ---

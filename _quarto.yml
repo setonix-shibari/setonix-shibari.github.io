@@ -11,6 +11,10 @@ website:
   title: "Setonix"
   image: www/images/logos/setonix-black.png
   site-url: https://setonix.art
+  cookie-consent:
+    type: express
+    style: standalone
+    palette: dark
   google-analytics: 
     tracking-id: "G-L42NDQR8R1"
     anonymize-ip: true
@@ -30,14 +34,16 @@ website:
         href: https://www.tumblr.com/setonix-shibari
       - text: "![](/www/images/logos/bsky.svg){height='1em'}"
         href: https://bsky.app/profile/setonix-shibari.bsky.social
-    page-footer:
-      right: 
-        - text: "![](/www/images/logos/cc-by-sa-nc.svg){height='1.5em'}"
-          href: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+  page-footer:
+    right: 
+      - text: "![](/www/images/logos/cc-by-nc-sa.svg){height='1.5em'}"
+        href: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+
 format:
   html:
     theme: [darkly, www/styles.scss]
     fontsize: 1.1em
+    include-after-body: www/setonix.js
 
 
 
