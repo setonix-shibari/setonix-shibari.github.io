@@ -8,7 +8,7 @@ listing:
   sort-ui: false
   filter-ui: true
   date-format: iso
-  fields: [date, title, image, description]
+  fields: [date, title, image, description, categories]
 page-layout: full
 title-block-banner: false
 ---
