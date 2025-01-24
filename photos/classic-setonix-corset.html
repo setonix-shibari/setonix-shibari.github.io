@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -70,7 +68,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-L42NDQR8R1"></script>
 
-<script type="text/plain" cookie-consent="tracking">
+<script type="text/javascript">
 
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
@@ -82,24 +80,6 @@ gtag('js', new Date());
   });
 gtag('config', 'G-L42NDQR8R1', { 'anonymize_ip': true});
 </script>
-
-<script type="text/javascript" charset="UTF-8">
-document.addEventListener('DOMContentLoaded', function () {
-cookieconsent.run({
-  "notice_banner_type":"standalone",
-  "consent_type":"express",
-  "palette":"dark",
-  "language":"en",
-  "page_load_consent_levels":["strictly-necessary"],
-  "notice_banner_reject_button_hide":false,
-  "preferences_center_close_button_hide":false,
-  "website_name":""
-  ,
-"language":"en"
-  });
-});
-</script> 
-  
 
 
 </head>
@@ -195,56 +175,6 @@ cookieconsent.run({
 
 
 </main> <!-- /main -->
-<div id="age-verification">
-    <button id="confirm" onclick="setCookieAndAllowAccess()">I am 18 or older</button>
-    <button id="deny" onclick="denyAccess()">I am under 18</button>
-</div>
-
-<script type="text/plain" cookie-consent="strictly-necessary">
-
-// Function to check if the cookie is already set
-function checkAgeCookie() {
-    const cookie = document.cookie.split(';').find(row => row.trim().startsWith('ageVerified='));
-    if (cookie) {
-        const ageVerified = cookie.split('=')[1];
-        if (ageVerified === 'true') {
-            showContent();
-        } else {
-            denyAccess();
-        }
-    } else {
-        showAgeVerification();
-    }
-}
-
-// Show the age verification prompt
-function showAgeVerification() {
-    document.getElementById('age-verification').style.display = 'block';
-    document.body.style.display = 'block';
-}
-
-// Set the cookie and show the content
-function setCookieAndAllowAccess() {
-    document.cookie = "ageVerified=true; path=/; max-age=" + 60 * 60 * 24 * 365; // cookie lasts 1 year
-    showContent();
-}
-
-// Deny access if they are not over 18
-function denyAccess() {
-    document.cookie = "ageVerified=false; path=/; max-age=" + 60 * 60 * 24 * 365; // cookie lasts 1 year
-    alert("You must be over 18 to view this website.");
-}
-
-// Show the content of the website
-function showContent() {
-    document.getElementById('age-verification').style.display = 'none';
-}
-
-// Run the age check when the page loads
-checkAgeCookie();
-
-
-</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -672,8 +602,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-
-<div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+      &nbsp;
+    </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
