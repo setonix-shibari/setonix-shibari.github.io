@@ -17,7 +17,7 @@ page-layout: full
 title-block-banner: false
 ---
 
-
+I attended my first shibari workshop in October 2023 and quickly became hooked on rope. I'm known for colourful self-tied corsets and intricate improvised designs. I've started adding very basic demos/tutorials and hoping to improve these soon.
 
 ::: {#front-page-listings}
 :::

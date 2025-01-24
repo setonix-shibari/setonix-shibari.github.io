@@ -4,7 +4,7 @@ date: 2025-01-23
 categories: [timelapse, video, self-tie, demo]
 image: ../www/images/ties-sfw/basic-tl.jpg
 image-alt: ""
-frontpage: true
+frontpage: false
 description: A timelapse of the base and boning of a basic corset
 ---
 
