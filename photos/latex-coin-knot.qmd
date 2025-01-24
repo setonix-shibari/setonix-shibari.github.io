@@ -1,0 +1,9 @@
+---
+title: Latex Coin Knot
+categories: [photo, nsfw, latex]
+image: ../www/images/ties/latex-coin-knot.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/latex-coin-knot.jpg)
+

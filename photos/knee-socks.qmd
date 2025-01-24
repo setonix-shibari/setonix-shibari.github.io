@@ -1,0 +1,9 @@
+---
+title: Knee Socks
+categories: [photo, sfw, socks]
+image: ../www/images/ties/knee-socks.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/knee-socks.jpg)
+

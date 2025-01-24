@@ -1,0 +1,9 @@
+---
+title: Diagonal Rosettes
+categories: [photo]
+image: ../www/images/ties/diagonal-rosettes.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/diagonal-rosettes.jpg)
+

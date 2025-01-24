@@ -1,0 +1,9 @@
+---
+title: Corset Demo
+categories: [photo, sfw, corset]
+image: ../www/images/ties/corset-demo.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/corset-demo.jpg)
+

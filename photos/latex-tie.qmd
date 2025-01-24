@@ -1,0 +1,9 @@
+---
+title: Latex Tie
+categories: [photo, sfw, latex, corset]
+image: ../www/images/ties/latex-tie.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/latex-tie.jpg)
+

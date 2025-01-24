@@ -1,0 +1,14 @@
+---
+title: Xmas Lights
+categories: [photo, nsfw, corset]
+image: ../www/images/ties/xmas-lights.jpg
+image-alt: ""
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: SorchaWillow
+---
+
+![](../www/images/ties/xmas-lights.jpg)
+

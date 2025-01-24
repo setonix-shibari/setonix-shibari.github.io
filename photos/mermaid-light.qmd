@@ -1,0 +1,9 @@
+---
+title: Mermaid Light
+categories: [photo, sfw-ish, mermaid]
+image: ../www/images/ties/mermaid-light.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/mermaid-light.jpg)
+

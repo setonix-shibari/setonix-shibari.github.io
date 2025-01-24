@@ -1,0 +1,9 @@
+---
+title: Rainbow Joy
+categories: [photo, nsfw, rainbow]
+image: ../www/images/ties/rainbow-joy.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/rainbow-joy.jpg)
+

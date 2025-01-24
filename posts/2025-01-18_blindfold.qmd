@@ -2,7 +2,7 @@
 title: Blindfolded Tie
 date: 2025-01-18
 categories: [video, self-tie, timelapse]
-image: ../www/images/ties-sfw/blindfold.jpg
+image: ../www/images/demos/blindfold.jpg
 image-alt: ""
 frontpage: false
 description: A timelapse video of me tying a corset while blindfolded 

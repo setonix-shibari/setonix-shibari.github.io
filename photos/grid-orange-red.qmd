@@ -1,0 +1,15 @@
+---
+title: Orange & Red Corset
+categories: [photo, nsfw, corset, face]
+image: ../www/images/ties/grid-orange-red.jpg
+image-alt: ""
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+  ropes: Casual Rope
+---
+
+![](../www/images/ties/grid-orange-red.jpg)
+

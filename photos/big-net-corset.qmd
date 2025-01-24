@@ -1,0 +1,16 @@
+---
+title: Net Corset
+categories: [photo]
+image: ../www/images/ties/big-net-corset.jpg
+image-alt: ""
+credits: 
+  design: RopeGuyNZ
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+Design inspired by [@RopeGuyNZ](https://fetlife.com/users/4561306/pictures/173961077)
+
+![](../www/images/ties/big-net-corset.jpg)
+

@@ -2,7 +2,7 @@
 title: Rosette Friction Tutorial
 date: 2025-01-24
 categories: [photo, tutorial]
-image: ../www/images/ties-sfw/rosette-tutorial.jpg
+image: ../www/images/demos/rosette-tutorial.jpg
 image-alt: A 9-part image of the steps of a rosette hitch being tied
 frontpage: true
 description: How to create rosette frictions
@@ -10,4 +10,4 @@ description: How to create rosette frictions
 
 Rosette frictions are just an extended munter hitch. Follow the over-under pattern around until the rosette is the size you want. This is a great way to use up rope ends.
 
-![](../www/images/ties-sfw/rosette-tutorial.jpg)
+![](../www/images/demos/rosette-tutorial.jpg)

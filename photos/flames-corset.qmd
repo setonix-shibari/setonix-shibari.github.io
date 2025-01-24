@@ -1,0 +1,14 @@
+---
+title: Flames Corset
+categories: [photo, sfw, corset]
+image: ../www/images/ties/flames-corset.jpg
+image-alt: ""
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+![](../www/images/ties/flames-corset.jpg)
+

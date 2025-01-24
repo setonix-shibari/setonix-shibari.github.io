@@ -2,7 +2,7 @@
 title: Panties in a Twist
 date: 2025-01-10
 categories: [tutorial, video, self-tie]
-image: ../www/images/ties-sfw/panties-twist.jpg
+image: ../www/images/demos/panties-twist.jpg
 image-alt: ""
 frontpage: false
 description: A self-tie tutorial for my design, panties in a twist

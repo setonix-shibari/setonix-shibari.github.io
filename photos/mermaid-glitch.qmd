@@ -1,0 +1,9 @@
+---
+title: Mermaid Glitch
+categories: [photo]
+image: ../www/images/ties/mermaid-glitch.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/mermaid-glitch.jpg)
+

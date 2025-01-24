@@ -1,0 +1,14 @@
+---
+title: Red Rosettes
+categories: [photo, nsfw, rosettes]
+image: ../www/images/ties/red-rosettes.jpg
+image-alt: ""
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+![](../www/images/ties/red-rosettes.jpg)
+

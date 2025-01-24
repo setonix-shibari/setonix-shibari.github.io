@@ -1,0 +1,9 @@
+---
+title: Orange Arrow
+categories: [photo]
+image: ../www/images/ties/orange-arrow.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/orange-arrow.jpg)
+

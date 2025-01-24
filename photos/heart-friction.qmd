@@ -1,0 +1,9 @@
+---
+title: Heart Friction
+categories: [photo, sfw-ish, corset]
+image: ../www/images/ties/heart-friction.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/heart-friction.jpg)
+

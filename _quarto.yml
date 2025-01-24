@@ -20,6 +20,7 @@ website:
     logo-alt: "Setonix"
     right:
       - posts/index.qmd
+      - photos/index.qmd
       - faq.qmd
       - text: "![](/www/images/logos/fetlife.svg){height='1.3em'}"
         href: https://fetlife.com/users/16247449

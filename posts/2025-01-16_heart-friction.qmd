@@ -2,7 +2,7 @@
 title: Heart Friction Tutorial
 date: 2025-01-16
 categories: [tutorial, video, self-tie]
-image: ../www/images/ties-sfw/heart-friction.jpg
+image: ../www/images/demos/heart-friction.jpg
 image-alt: "Red ropes tied around a leg with the friction in the shape of a heart"
 frontpage: true
 description: A self-tie tutorial for a heart-shaped friction

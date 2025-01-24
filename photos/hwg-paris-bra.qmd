@@ -1,0 +1,11 @@
+---
+title: HwG-Paris Bra
+categories: [photo]
+image: ../www/images/ties/hwg-paris-bra.jpg
+image-alt: ""
+---
+
+Design by [@HwG-Paris](https://fetlife.com/users/13012683/pictures/176233631), with some additions for more stucture.
+
+![](../www/images/ties/hwg-paris-bra.jpg)
+

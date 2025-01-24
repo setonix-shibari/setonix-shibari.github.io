@@ -1,0 +1,9 @@
+---
+title: Rainbow Wraps
+categories: [photo, corset, nsfw, rainbow, selective colour]
+image: ../www/images/ties/rainbow-selective.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/rainbow-selective.jpg)
+

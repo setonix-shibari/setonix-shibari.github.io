@@ -1,0 +1,9 @@
+---
+title: Fire Spiderweb
+categories: [photo]
+image: ../www/images/ties/fire-spiderweb.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/fire-spiderweb.jpg)
+

@@ -1,0 +1,14 @@
+---
+title: 2024 Calendar
+categories: [photo, collage, sfw-ish]
+image: ../www/images/ties/2024-calendar.jpg
+image-alt: ""
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+![](../www/images/ties/2024-calendar.jpg)
+

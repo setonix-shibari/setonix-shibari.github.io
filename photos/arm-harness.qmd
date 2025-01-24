@@ -1,0 +1,15 @@
+---
+title: Arm Harness
+categories: [photo, sfw-ish]
+image: ../www/images/ties/arm-harness.jpg
+image-alt: ""
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+  costume: Breathcatchers
+---
+
+![](../www/images/ties/arm-harness.jpg)
+

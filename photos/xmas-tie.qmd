@@ -1,0 +1,14 @@
+---
+title: Xmas Tie
+categories: [photo, nsfw, corset]
+image: ../www/images/ties/xmas-tie.jpg
+image-alt: ""
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: SorchaWillow
+---
+
+![](../www/images/ties/xmas-tie.jpg)
+

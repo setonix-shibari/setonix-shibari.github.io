@@ -1,0 +1,14 @@
+---
+title: Butt
+categories: [photo, butt, sfw-ish]
+image: ../www/images/ties/butt.jpg
+image-alt: ""
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+![](../www/images/ties/butt.jpg)
+

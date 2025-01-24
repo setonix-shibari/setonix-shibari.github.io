@@ -1,0 +1,9 @@
+---
+title: Rose Mermaid
+categories: [photo, sfw, mermaid, rosettes]
+image: ../www/images/ties/mermaid-rose.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/mermaid-rose.jpg)
+

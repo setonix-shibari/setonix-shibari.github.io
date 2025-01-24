@@ -56,3 +56,14 @@ p.card-img-top > img {
 .list.grid > div:nth-child(12) {
   border-color: var(--purple);
 }
+
+.photo-list > li {
+  height: 10em;
+  width: auto;
+  display: inline-block;
+  float: left;
+  margin: 3px;
+}
+.photo-list img {
+  height: 10em;
+}

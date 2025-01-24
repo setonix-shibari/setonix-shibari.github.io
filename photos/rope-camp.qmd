@@ -1,0 +1,9 @@
+---
+title: Rope Camp
+categories: [photo, sfw, corset]
+image: ../www/images/ties/rope-camp.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/rope-camp.jpg)
+

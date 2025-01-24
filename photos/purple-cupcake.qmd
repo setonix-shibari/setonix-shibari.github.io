@@ -1,0 +1,9 @@
+---
+title: Purple Cupcake
+categories: [photo]
+image: ../www/images/ties/purple-cupcake.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/purple-cupcake.jpg)
+

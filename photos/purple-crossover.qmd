@@ -1,0 +1,9 @@
+---
+title: Purple Crossover
+categories: [photo]
+image: ../www/images/ties/purple-crossover.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/purple-crossover.jpg)
+

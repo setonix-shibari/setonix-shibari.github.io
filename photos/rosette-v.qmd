@@ -1,0 +1,9 @@
+---
+title: Rosette V Corset
+categories: [photo, nsfw, rosettes, corset]
+image: ../www/images/ties/rosette-v.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/rosette-v.jpg)
+

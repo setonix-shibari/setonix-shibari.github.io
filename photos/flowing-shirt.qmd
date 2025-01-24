@@ -1,0 +1,9 @@
+---
+title: Flowing Shirt
+categories: [photo, sfw, corset]
+image: ../www/images/ties/flowing-shirt.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/flowing-shirt.jpg)
+

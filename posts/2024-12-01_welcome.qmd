@@ -2,7 +2,7 @@
 title: I have a website!
 date: 2024-12-01
 categories: []
-image: ../www/images/ties-sfw/rainbow-legs.jpg
+image: ../www/images/ties/rainbow-legs.jpg
 frontpage: false
 ---
 

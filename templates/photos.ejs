@@ -1,0 +1,11 @@
+```{=html}
+<ul class="photo-list list">
+<% for (const item of items) { %>
+  <li <%= metadataAttrs(item) %>>
+      <a href="<%= item.path %>">
+         <img src="<%- item.image %>" title="<%= item.title %>">
+      </a<
+  </li>
+<% } %>
+</ul>
+```

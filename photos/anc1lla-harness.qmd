@@ -1,0 +1,16 @@
+---
+title: Anc1lla Harness
+categories: [photo]
+image: ../www/images/ties/anc1lla-harness.jpg
+image-alt: ""
+credits: 
+  design: Anc1lla
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+Inspired by a [harness by @Anc1lla](https://fetlife.com/users/11213481/pictures/179527510)
+
+![](../www/images/ties/anc1lla-harness.jpg)
+

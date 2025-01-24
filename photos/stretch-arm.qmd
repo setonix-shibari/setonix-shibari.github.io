@@ -1,0 +1,9 @@
+---
+title: Stretch Arm
+categories: [photo, sfw-ish]
+image: ../www/images/ties/stretch-arm.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/stretch-arm.jpg)
+

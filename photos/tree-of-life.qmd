@@ -1,0 +1,9 @@
+---
+title: Tree of Life
+categories: [photo, sfw-ish]
+image: ../www/images/ties/tree-of-life.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/tree-of-life.jpg)
+

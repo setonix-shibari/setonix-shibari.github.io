@@ -1,0 +1,9 @@
+---
+title: Green Purple Corset
+categories: [photo, nsfw, corset]
+image: ../www/images/ties/green-purple-corset.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/green-purple-corset.jpg)
+

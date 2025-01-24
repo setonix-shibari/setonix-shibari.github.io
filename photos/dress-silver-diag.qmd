@@ -1,0 +1,9 @@
+---
+title: Silver Dress with Diagonal Hobble Skirt
+categories: [photo, sfw, dress, hobble skirt]
+image: ../www/images/ties/dress-silver-diag.jpg
+image-alt: ""
+---
+
+![](../www/images/ties/dress-silver-diag.jpg)
+
