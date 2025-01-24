@@ -5,7 +5,7 @@ listing:
   sort: "date desc"
   type: grid
   categories: true
-  sort-ui: true
+  sort-ui: false
   filter-ui: true
   date-format: iso
   fields: [date, title, image, description]

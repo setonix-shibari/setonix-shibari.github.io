@@ -1,5 +1,7 @@
 ---
 title: "FAQ"
+toc: true
+toc-title: "FAQs"
 ---
 
 ### When did you start?
@@ -23,24 +25,26 @@ Most of my older ties are with 6mm jute, each 8 meters long. I got them on Etsy 
 
 ### Are these really self-ties?
 
-If it’s tagged self-tie, I tied myself :) For those expressing disbelief, I’m pretty flexible, have good spatial awareness to do knots behind my back, and also use some tricks to start frictions at a more accessible place and move them to the back. 
+If it’s [tagged self-tie](/posts/#category=self-tie), I tied myself :) For those expressing disbelief, I’m pretty flexible, have good spatial awareness to do knots behind my back, and also use some tricks to start frictions at a more accessible place and move them to the back. 
 
 ### How long does it take?
 
 The more intricate corset ties usually take about an hour or two the first time if I’m improvising (and have to untie a bit when I change my mind about something), and 30-45 minutes if I’m tying them once I know what I’m doing. 
 
-I have an [11-minute video](posts/2025-01-10_corset_demo.qmd) of tying a corset base at my typical speed. 
+I have an [11-minute video](/posts/2025-01-10_corset_demo.qmd) of tying a corset base at my typical speed. 
 
 
 ### Can I copy your ties?
 
 Of course! I love if you @ me in the caption of anything you post that’s inspired by my ties (I won’t accept _tags_ in photos unless I’m directly involved like the model or rigger, though).
 
-I’m not sure what legal weight it holds, but I intend to share any of my own designs and images where I am the only rigger, model and photographer on a CC-BY-SA-NC license, which means you can use and remix them as long as you give me credit (BY), share resulting works under the same license (SA), and don’t use them for commercial purposes (NC). 
+I’m not sure what legal weight it holds, but I intend to share any of my own designs and images where I am the only rigger, model and photographer on a [CC-BY-SA-NC license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en), which means you can use and remix them as long as you give me credit (BY), share resulting works under the same license (SA), and don’t use them for commercial purposes (NC). 
 
 ### Can you link to the tutorials for your ties?
 
 Most of the ties I post are improvised, so sometimes I’m not even sure how I did them by the end. If I’m tying from someone else’s tutorial or inspired by a picture, I’ll always link to it (let me know if I’m ever not giving appropriate credit). 
+
+[Tutorials on this site](/posts/#category=tutorial)
 
 
 ### Do you teach workshops?
@@ -52,6 +56,17 @@ I don’t have any immediate plans to do online workshops, but I’d be up for t
 The watermelon and sun/moon pants are from a UK Etsy seller called [SproutOrganic](https://www.etsy.com/uk/shop/SproutOrganic). 
 
 The rainbow and purple/green swirl pants are from an Etsy seller who isn’t online anymore. 
+
+::: {#fig-pants layout-ncol=4}
+
+![](www/images/ties-sfw/pants-watermelon.jpg)
+
+![](www/images/ties-sfw/pants-moon.jpg)
+
+![](www/images/ties-sfw/pants-rainbow.jpg)
+
+![](www/images/ties-sfw/pants-swirl.jpg)
+:::
 
 
 ### Do you edit your photos?

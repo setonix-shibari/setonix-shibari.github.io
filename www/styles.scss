@@ -26,26 +26,33 @@ nav {
 .navbar-title { display: none; }
 .navbar-logo { max-height: 1.5em; }
 
+div.quarto-grid-item {
+  border-radius: 15px;
+}
+p.card-img-top > img {
+  border-radius: 15px 15px 0 0 ;
+}
 .list.grid > div {
-  border: 3px solid var(--red);
+  border: 5px solid var(--red);
+  border-radius: 20px;
 }
 .list.grid > div:nth-child(2),
 .list.grid > div:nth-child(8) {
-  border: 3px solid var(--orange);
+  border-color: var(--orange);
 }
 .list.grid > div:nth-child(3),
 .list.grid > div:nth-child(9) {
-  border: 3px solid var(--yellow);
+  border-color: var(--yellow);
 }
 .list.grid > div:nth-child(4),
 .list.grid > div:nth-child(10) {
-  border: 3px solid var(--green);
+  border-color: var(--green);
 }
 .list.grid > div:nth-child(5),
 .list.grid > div:nth-child(11) {
-  border: 3px solid var(--blue);
+  border-color: var(--blue);
 }
 .list.grid > div:nth-child(6),
 .list.grid > div:nth-child(12) {
-  border: 3px solid var(--purple);
+  border-color: var(--purple);
 }
