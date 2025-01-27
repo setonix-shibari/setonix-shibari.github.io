@@ -1,5 +1,16 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2025-01-24_rosettes.html",
+      "/posts/2025-01-23_back-frictions.html",
+      "/posts/2025-01-21_start-to-art.html",
+      "/posts/2025-01-16_heart-friction.html",
+      "/posts/2025-01-10_corset_demo.html",
+      "/posts/2024-12-06_pca.html"
+    ]
+  },
+  {
     "listing": "/photos/index.html",
     "items": [
       "/photos/mermaid-rose.html",
@@ -46,6 +57,7 @@
       "/photos/blue-purple-arch.html",
       "/photos/mermaid-glitch.html",
       "/photos/rope-camp.html",
+      "/photos/setonix-grid.html",
       "/photos/rainbow-selective.html",
       "/photos/rainbow-spiderweb.html",
       "/photos/2024-calendar.html",
@@ -79,19 +91,9 @@
     ]
   },
   {
-    "listing": "/index.html",
-    "items": [
-      "/posts/2025-01-24_rosettes.html",
-      "/posts/2025-01-23_back-frictions.html",
-      "/posts/2025-01-21_start-to-art.html",
-      "/posts/2025-01-16_heart-friction.html",
-      "/posts/2025-01-10_corset_demo.html",
-      "/posts/2024-12-06_pca.html"
-    ]
-  },
-  {
     "listing": "/posts/index.html",
     "items": [
+      "/posts/2025-01-26_grid-project.html",
       "/posts/2025-01-24_rosettes.html",
       "/posts/2025-01-23_back-frictions.html",
       "/posts/2025-01-23_basic-timelapse.html",
