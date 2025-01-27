@@ -1,0 +1,15 @@
+---
+title: Grid Project
+date: 2025-01-27
+categories: [gif]
+image: ../www/images/grid/setonix-grid.gif
+image-alt: 36 corset ties
+frontpage: false
+description: My 36-tie project
+---
+
+I've been working on a project for the past few weeks to create a sort of "mood board" of different corsets to showcase the creative possibilities for a [workshop on improvising corset designs](2025-01-21_start-to-art.qmd).
+
+![](../www/images/grid/setonix-grid.jpg)
+
+I tied 36 different corsets in every colour combination of my rainbow ropes: 6 different bases (red, orange, yellow, green, blue and purple) and 5 different boning patterns on each of them.

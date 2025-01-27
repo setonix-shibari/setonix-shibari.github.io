@@ -1,0 +1,15 @@
+---
+title: Grid Project
+categories: [corset, nsfw, collage, gif]
+image: ../www/images/grid/setonix-grid.png
+image-alt: "36 corsets"
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+
+![](../www/images/grid/setonix-grid.gif)
+
