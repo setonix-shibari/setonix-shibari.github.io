@@ -1,7 +1,7 @@
 ---
 title: Grid Project
 date: 2025-01-27
-categories: [gif]
+categories: []
 image: ../www/images/grid/setonix-grid.gif
 image-alt: 36 corset ties
 frontpage: false
