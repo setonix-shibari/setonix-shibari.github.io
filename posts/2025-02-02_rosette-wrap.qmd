@@ -1,0 +1,14 @@
+---
+title: Rosette Wrap Tutorial
+date: 2025-02-02
+categories: [tutorial, video, self-tie]
+image: ../www/images/demos/rosette-tutorial.jpg
+image-alt: A 9-part image of the steps of a rosette hitch being tied
+frontpage: true
+description: A self-tie tutorial for rosette wraps
+---
+
+If mobility allows, it's good to practice this one on your leg, so I did the video from that point of view.
+
+{{< video ../www/videos/setonix-rosette-wrap.mp4 width="480" >}}
+
