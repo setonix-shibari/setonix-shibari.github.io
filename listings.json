@@ -1,15 +1,21 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/posts/index.html",
     "items": [
       "/posts/2025-02-01_csk-base.html",
       "/posts/2025-02-02_rosette-wrap.html",
+      "/posts/2025-02-01_many-bodies.html",
       "/posts/2025-01-27_grid-project.html",
+      "/posts/2025-01-24_rosettes.html",
       "/posts/2025-01-23_back-frictions.html",
+      "/posts/2025-01-23_basic-timelapse.html",
       "/posts/2025-01-21_start-to-art.html",
+      "/posts/2025-01-18_blindfold.html",
       "/posts/2025-01-16_heart-friction.html",
       "/posts/2025-01-10_corset_demo.html",
-      "/posts/2024-12-06_pca.html"
+      "/posts/2025-01-10_panties-twist.html",
+      "/posts/2024-12-06_pca.html",
+      "/posts/2024-12-01_welcome.html"
     ]
   },
   {
@@ -129,21 +135,17 @@
     ]
   },
   {
-    "listing": "/posts/index.html",
+    "listing": "/index.html",
     "items": [
       "/posts/2025-02-01_csk-base.html",
       "/posts/2025-02-02_rosette-wrap.html",
+      "/posts/2025-02-01_many-bodies.html",
       "/posts/2025-01-27_grid-project.html",
-      "/posts/2025-01-24_rosettes.html",
       "/posts/2025-01-23_back-frictions.html",
-      "/posts/2025-01-23_basic-timelapse.html",
       "/posts/2025-01-21_start-to-art.html",
-      "/posts/2025-01-18_blindfold.html",
       "/posts/2025-01-16_heart-friction.html",
       "/posts/2025-01-10_corset_demo.html",
-      "/posts/2025-01-10_panties-twist.html",
-      "/posts/2024-12-06_pca.html",
-      "/posts/2024-12-01_welcome.html"
+      "/posts/2024-12-06_pca.html"
     ]
   }
 ]
