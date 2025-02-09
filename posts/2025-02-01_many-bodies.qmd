@@ -1,0 +1,31 @@
+---
+title: ManyBodies
+date: 2025-02-01
+categories: []
+image: ../www/images/manybodies/manybodies-close.jpg
+image-alt: Example tie
+frontpage: true
+description: Announcing the ManyBodies proect, where I tie a similar corset on as many bodies as possible.
+---
+
+I’m starting a new project to tie (approximately) the same corset on as many different bodies as possible.
+
+I currently have a bunch of people in Scotland and NL interested, so I’m not looking for new models just yet, but wanted to have a writing that explains what I’m thinking about the project.
+
+It will be something like this one (with black wraps and busk and red boning), but customised for each individual’s body and preferences.
+
+::: {#fig-manybodies layout-ncol=3}
+![](../www/images/manybodies/manybodies-close.jpg)
+
+![](../www/images/manybodies/manybodies-front.jpg)
+
+![](../www/images/manybodies/manybodies-side.jpg)
+
+:::
+
+The photographs will also be customised for each model. Although I’d love to make something with the pose consistency of the grid project, I also know that not everyone is comfortable with nudity or every part of their body, so models can choose any cropping, like even just a close-up of one friction over clothing.
+
+I’d like to collaborate with each model to write their own caption for their main photo, on the broad theme of bodies and ropes.
+
+The intent would be to post each main photo as its own post on FetLife, and to make a compilation photo like the one above. I don’t think this project would lead to anything bigger (like a book or prints or a gallery exhibit) unless I sort out my photography setup sooner than I expect. But I’ll have a written contract with each model so we’re clear on how we both can use the resulting photos and how we can handle it if the model needs to withdraw permission for further use of their images.
+

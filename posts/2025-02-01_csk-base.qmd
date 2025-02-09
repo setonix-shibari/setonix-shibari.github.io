@@ -1,14 +1,14 @@
 ---
 title: Cored Square Knot Tie
 date: 2025-02-09
-categories: [video, tutorial]
-image: ../www/images/demo/csk.jpg
+categories: [video, tutorial, corset, self-tie, timelapse]
+image: ../www/images/ties/csk.jpg
 image-alt: A cored square knot tie
 frontpage: true
-description: A demo video and timelapse of the cored square knot corset.
+description: A timelapse and slower demo video of the cored square knot corset.
 ---
 
-A 16x timelapse of a self-tie. The base took 11 minutes and three 8-meter red jute ropes, and the boning took 19 minutes and two 8-meter yellow linen ropes (from @Casual_Rope). (I disappear in the middle for a bit to go blow my nose — I’m full of the cold today)
+A 16x timelapse of a self-tie. The base took 11 minutes and three 8-meter red jute ropes, and the boning took 19 minutes and two 8-meter yellow linen ropes.
 
 {{< video ../www/videos/setonix-csk-base-timelapse.mp4 width="480" >}}
 
