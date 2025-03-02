@@ -1,6 +1,6 @@
 ---
 title: Grid Corset with Blue Base and Blue Boning
-categories: [photo, grid, corset, nsfw]
+categories: [photo, grid, corset, nsfw, base, cored square knot]
 image: ../www/images/grid/55_b-b.jpg
 image-alt: ""
 ---

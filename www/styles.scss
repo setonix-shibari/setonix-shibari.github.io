@@ -57,15 +57,23 @@ p.card-img-top > img {
   border-color: var(--purple);
 }
 
+.photo-list {
+  padding: 0;
+  margin: 0;
+}
+
 .photo-list > li {
-  height: 8em;
-  width: auto;
+  height: 6em;
+  width: 4.5em;
   display: inline-block;
   float: left;
-  margin: 3px;
+  margin: 0 5px 5px 0;
+  text-align: center;
 }
 .photo-list img {
-  height: 8em;
+  height: 6em;
+  width: 4.5em;
+  object-fit: contain;
 }
 
 .photo-list .listing-name {

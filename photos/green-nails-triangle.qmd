@@ -1,0 +1,10 @@
+---
+title: Green Nails Triangle
+categories: [photo, sfw-ish]
+image: ../www/images/ties/green-nails-triangle.jpg
+image-alt: ""
+---
+
+
+![](../www/images/ties/green-nails-triangle.jpg)
+

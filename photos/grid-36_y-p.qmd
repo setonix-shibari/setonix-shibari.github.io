@@ -1,6 +1,6 @@
 ---
 title: Grid Corset with Yellow Base and Purple Boning
-categories: [photo, grid, corset, nsfw]
+categories: [photo, grid, corset, nsfw, cupcake]
 image: ../www/images/grid/36_y-p.jpg
 image-alt: ""
 ---

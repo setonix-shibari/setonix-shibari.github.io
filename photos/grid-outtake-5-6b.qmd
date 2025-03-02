@@ -1,6 +1,6 @@
 ---
 title: Grid Corset with Blue Base and Purple Boning
-categories: [photo, grid, corset, nsfw]
+categories: [photo, grid, corset, sfw-ish, cored square knot]
 image: ../www/images/grid-outtakes/b-sides/5-6b.jpg
 image-alt: ""
 ---

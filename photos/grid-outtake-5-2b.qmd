@@ -1,6 +1,6 @@
 ---
 title: Grid Corset with Blue Base and Orange Boning
-categories: [photo, grid, corset, nsfw]
+categories: [photo, grid, corset, nsfw, rosettes]
 image: ../www/images/grid-outtakes/b-sides/5-2b.jpg
 image-alt: ""
 ---

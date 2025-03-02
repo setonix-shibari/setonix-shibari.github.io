@@ -1,0 +1,10 @@
+---
+title: CSK Heart
+categories: [photo, sfw-ish, cored square knot]
+image: ../www/images/ties/csk-heart.jpg
+image-alt: ""
+---
+
+
+![](../www/images/ties/csk-heart.jpg)
+

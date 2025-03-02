@@ -1,0 +1,10 @@
+---
+title: Green Nail Demure
+categories: [photo, sfw]
+image: ../www/images/ties/green-nail-demure.jpg
+image-alt: ""
+---
+
+
+![](../www/images/ties/green-nail-demure.jpg)
+

@@ -1,0 +1,10 @@
+---
+title: Green Nails Chest
+categories: [photo, ssfw]
+image: ../www/images/ties/green-nails-chest.jpg
+image-alt: ""
+---
+
+
+![](../www/images/ties/green-nails-chest.jpg)
+

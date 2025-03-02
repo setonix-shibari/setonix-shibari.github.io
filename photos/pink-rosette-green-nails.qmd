@@ -1,0 +1,10 @@
+---
+title: Pink Rosette Green Nails
+categories: [photo, nsfw, rosette]
+image: ../www/images/ties/pink-rosette-green-nails.jpg
+image-alt: ""
+---
+
+
+![](../www/images/ties/pink-rosette-green-nails.jpg)
+

@@ -1,0 +1,10 @@
+---
+title: Cored Square Knot Base Demo
+categories: [photo, sfw, cored square knot]
+image: ../www/images/ties/cored-square-knot-base-demo.jpg
+image-alt: ""
+---
+
+
+![](../www/images/ties/cored-square-knot-base-demo.jpg)
+
