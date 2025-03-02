@@ -1,6 +1,6 @@
 ---
 title: Grid Base - Yellow
-categories: [photo, nsfw, base, selective colour]
+categories: [photo, nsfw, grid, base, selective colour]
 image: ../www/images/grid/grid-base-3-yellow.jpg
 image-alt: ""
 ---

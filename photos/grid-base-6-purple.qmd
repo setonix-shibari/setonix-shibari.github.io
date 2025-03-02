@@ -1,6 +1,6 @@
 ---
 title: Grid Base - Purple
-categories: [photo, nsfw, base, selective colour]
+categories: [photo, nsfw, grid, base, selective colour]
 image: ../www/images/grid/grid-base-6-purple.jpg
 image-alt: ""
 ---
