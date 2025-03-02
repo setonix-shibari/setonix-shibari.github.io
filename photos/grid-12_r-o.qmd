@@ -1,6 +1,6 @@
 ---
 title: Grid Corset with Red Base and Orange Boning
-categories: [photogrid; corset; nsfw]
+categories: [photo, grid, corset, nsfw]
 image: ../www/images/grid/12_r-o.jpg
 image-alt: ""
 ---

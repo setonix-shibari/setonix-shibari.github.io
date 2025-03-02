@@ -4,9 +4,13 @@ date: 2025-01-21
 categories: [workshop]
 image: ../www/images/start-to-art/start-to-art.jpg
 image-alt: ""
-frontpage: true
+frontpage: false
 description: Announcing a 3-day luxury retreat in Scotland March 28-30 featuring decorative rope by me and photography by Captured Erotica
 ---
+
+::: {.callout-warning}
+This workshop has been delayed -- a new date should be announced soon
+:::
 
 ![](../www/images/start-to-art/start-to-art.jpg)
 

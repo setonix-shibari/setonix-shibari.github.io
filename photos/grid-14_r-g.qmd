@@ -1,6 +1,6 @@
 ---
 title: Grid Corset with Red Base and Green Boning
-categories: [photogrid; corset; nsfw]
+categories: [photo, grid, corset, nsfw]
 image: ../www/images/grid/14_r-g.jpg
 image-alt: ""
 ---

@@ -1,32 +1,33 @@
-dir <- "www/images/grid"
-cats <- "grid; corset; nsfw"
+dir <- "www/images/grid-outtakes"
+cats <- ", grid, corset, nsfw"
 
 
-images <- list.files(dir, "[1-6]{2}", recursive = TRUE, full.names = TRUE)
+images <- list.files(dir, "\\d-\\d", recursive = TRUE, full.names = TRUE)
+images <- images[!grepl("1-1|2-2|3-3|4-4|5-5|6-6", images)]
 for (img in images) {
   base <- basename(img) |> sub("\\.jpg$", "", x = _)
-  file <- paste0("photos/grid-", base, ".qmd")
+  file <- paste0("photos/grid-outtake-", base, ".qmd")
   
-  if (file.exists(file)) {
+  if (!file.exists(file)) {
     title <- base |> 
       gsub("-", " ", x = _) |> 
       stringr::str_to_title()
     
-    title <- paste("Grid Corset with", dplyr::case_match(substr(base, 4, 4), 
-                               "r" ~ "Red",
-                               "o" ~ "Orange",
-                               "y" ~ "Yellow",
-                               "g" ~ "Green",
-                               "b" ~ "Blue",
-                               "p" ~ "Purple"),
+    title <- paste("Grid Corset with", dplyr::case_match(substr(base, 1, 1), 
+                               "1" ~ "Red",
+                               "2" ~ "Orange",
+                               "3" ~ "Yellow",
+                               "4" ~ "Green",
+                               "5" ~ "Blue",
+                               "6" ~ "Purple"),
                    "Base and",
-                   dplyr::case_match(substr(base, 6, 6), 
-                                     "r" ~ "Red",
-                                     "o" ~ "Orange",
-                                     "y" ~ "Yellow",
-                                     "g" ~ "Green",
-                                     "b" ~ "Blue",
-                                     "p" ~ "Purple"),
+                   dplyr::case_match(substr(base, 3, 3), 
+                                     "1" ~ "Red",
+                                     "2" ~ "Orange",
+                                     "3" ~ "Yellow",
+                                     "4" ~ "Green",
+                                     "5" ~ "Blue",
+                                     "6" ~ "Purple"),
                    "Boning")
     
 
@@ -37,7 +38,7 @@ image: ../%s
 image-alt: \"\"
 ---
 
-Corset from the [grid project](/posts/2025-01-27_grid-project.html).
+Outtake of corset from the [grid project](/posts/2025-01-27_grid-project.html).
 
 ![](../%s)
 ", title, cats, img, img)

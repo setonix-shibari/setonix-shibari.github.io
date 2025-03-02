@@ -1,6 +1,6 @@
 ---
 title: Zombie Pose
-categories: [photo, nsfw, corset, rosettes]
+categories: [photo, nsfw, corset, rosettes, face]
 image: ../www/images/ties/black-rose-zombie.jpg
 image-alt: ""
 credits: 

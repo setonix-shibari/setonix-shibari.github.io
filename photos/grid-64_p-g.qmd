@@ -1,6 +1,6 @@
 ---
 title: Grid Corset with Purple Base and Green Boning
-categories: [photogrid; corset; nsfw]
+categories: [photo, grid, corset, nsfw]
 image: ../www/images/grid/64_p-g.jpg
 image-alt: ""
 ---
