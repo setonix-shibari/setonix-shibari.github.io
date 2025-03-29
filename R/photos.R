@@ -32,6 +32,12 @@ for (img in images) {
       #                                "6" ~ "Purple"),
       #              "Boning")
     
+    if (grepl("^bw-", base)) {
+      newcats <- paste0(cats, ", b&w")
+      title <- gsub("^Bw", "B&W", title)
+    } else {
+      newcats <- cats
+    }
 
     txt <- sprintf("---
 title: %s
@@ -42,7 +48,7 @@ image-alt: \"\"
 
 
 ![](../%s)
-", title, cats, img, img)
+", title, newcats, img, img)
     
     write(txt, file)
   }

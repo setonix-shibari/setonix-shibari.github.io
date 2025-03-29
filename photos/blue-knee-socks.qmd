@@ -3,6 +3,7 @@ title: Blue Knee Socks
 categories: [photo, socks, nsfw, corset]
 image: ../www/images/ties/blue-knee-socks.jpg
 image-alt: ""
+date: 2024-12-01
 credits: 
   design: Setonix
   rigger: Setonix

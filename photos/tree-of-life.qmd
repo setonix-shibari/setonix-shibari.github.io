@@ -3,6 +3,7 @@ title: Tree of Life
 categories: [photo, sfw-ish]
 image: ../www/images/ties/tree-of-life.jpg
 image-alt: ""
+date: 2024-12-08
 ---
 
 ![](../www/images/ties/tree-of-life.jpg)

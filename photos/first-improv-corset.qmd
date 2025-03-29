@@ -3,6 +3,7 @@ title: First Improv Corset
 categories: [photo]
 image: ../www/images/ties/first-improv-corset.jpg
 image-alt: ""
+date: 2024-01-20
 ---
 
 ![](../www/images/ties/first-improv-corset.jpg)

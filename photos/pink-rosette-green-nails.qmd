@@ -1,8 +1,9 @@
 ---
 title: Pink Rosette Green Nails
-categories: [photo, nsfw, rosette]
+categories: [photo, nsfw, big rosette, nails]
 image: ../www/images/ties/pink-rosette-green-nails.jpg
 image-alt: ""
+date: 2025-02-08
 ---
 
 

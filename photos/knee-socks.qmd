@@ -3,6 +3,7 @@ title: Knee Socks
 categories: [photo, sfw, socks]
 image: ../www/images/ties/knee-socks.jpg
 image-alt: ""
+date: 2024-08-29
 ---
 
 ![](../www/images/ties/knee-socks.jpg)

@@ -3,6 +3,7 @@ title: Grid Corset with Yellow Base and Red Boning
 categories: [photo, grid, corset, nsfw]
 image: ../www/images/grid/31_y-r.jpg
 image-alt: ""
+date: 2025-01-18
 ---
 
 Corset from the [grid project](/posts/2025-01-27_grid-project.html).

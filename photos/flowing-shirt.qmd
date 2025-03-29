@@ -1,8 +1,9 @@
 ---
 title: Flowing Shirt
-categories: [photo, sfw, corset]
+categories: [photo, sfw, corset, asymmetric]
 image: ../www/images/ties/flowing-shirt.jpg
 image-alt: ""
+date: 2024-05-20
 ---
 
 ![](../www/images/ties/flowing-shirt.jpg)

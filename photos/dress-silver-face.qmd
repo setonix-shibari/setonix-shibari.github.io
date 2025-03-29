@@ -3,6 +3,7 @@ title: Silver Dress Hobble Skirt
 categories: [photo, sfw, dress, hobble skirt, face]
 image: ../www/images/ties/dress-silver-face.jpg
 image-alt: ""
+date: 2025-01-12
 ---
 
 ![](../www/images/ties/dress-silver-face.jpg)

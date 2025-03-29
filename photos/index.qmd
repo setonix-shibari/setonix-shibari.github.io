@@ -3,7 +3,7 @@ title: "Photos"
 listing:
   template: ../templates/photos.ejs
   contents: "."
-  sort: "image"
+  sort: ["date desc", "image"]
   page-size: 100
   categories: true
   sort-ui: false

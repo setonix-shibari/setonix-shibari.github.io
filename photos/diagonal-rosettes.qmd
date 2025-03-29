@@ -3,6 +3,7 @@ title: Diagonal Rosettes
 categories: [photo]
 image: ../www/images/ties/diagonal-rosettes.jpg
 image-alt: ""
+date: 2024-12-22
 ---
 
 ![](../www/images/ties/diagonal-rosettes.jpg)

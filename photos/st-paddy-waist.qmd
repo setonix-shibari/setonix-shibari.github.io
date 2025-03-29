@@ -1,0 +1,11 @@
+---
+title: St Paddy Waist
+categories: [photo, nsfw, corset, rosettes]
+image: ../www/images/ties/st-paddy-waist.jpg
+image-alt: ""
+date: 2025-03-17
+---
+
+
+![](../www/images/ties/st-paddy-waist.jpg)
+

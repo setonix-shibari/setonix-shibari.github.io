@@ -1,8 +1,9 @@
 ---
 title: Net Corset
-categories: [photo]
+categories: [photo, corset, nsfw, asymmetric]
 image: ../www/images/ties/big-net-corset.jpg
 image-alt: ""
+date: 2024-08-05
 credits: 
   design: RopeGuyNZ
   rigger: Setonix

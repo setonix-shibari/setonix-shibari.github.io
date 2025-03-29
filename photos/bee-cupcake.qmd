@@ -1,8 +1,9 @@
 ---
 title: Bee Cupcake
-categories: [photo, nsfw, cupcake, corset, garters]
+categories: [photo, nsfw, cupcake, corset, garters, kinktober]
 image: ../www/images/ties/bee-cupcake.jpg
 image-alt: ""
+date: 2024-10-06
 credits: 
   design: Setonix
   rigger: Setonix

@@ -3,6 +3,7 @@ title: Rose Mermaid
 categories: [photo, sfw, mermaid, rosettes]
 image: ../www/images/ties/mermaid-rose.jpg
 image-alt: ""
+date: 2024-03-07
 ---
 
 ![](../www/images/ties/mermaid-rose.jpg)

@@ -1,0 +1,11 @@
+---
+title: Mardi Gras Arms
+categories: [photo, nsfw, corset, rosettes]
+image: ../www/images/ties/mardi-gras-arms.jpg
+image-alt: ""
+date: 2025-03-02
+---
+
+
+![](../www/images/ties/mardi-gras-arms.jpg)
+

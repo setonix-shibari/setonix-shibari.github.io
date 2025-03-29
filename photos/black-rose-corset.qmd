@@ -3,6 +3,7 @@ title: Black Rose Corset
 categories: [photo, nsfw, corset, rosettes]
 image: ../www/images/ties/black-rose-corset.jpg
 image-alt: ""
+date: 2024-11-20
 credits: 
   design: Setonix
   rigger: Setonix

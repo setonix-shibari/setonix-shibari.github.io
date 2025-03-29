@@ -1,8 +1,9 @@
 ---
 title: Arm Harness
-categories: [photo, sfw-ish]
+categories: [photo, sfw-ish, asymmetric]
 image: ../www/images/ties/arm-harness.jpg
 image-alt: ""
+date: 2024-11-04
 credits: 
   design: Setonix
   rigger: Setonix

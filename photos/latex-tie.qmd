@@ -3,6 +3,7 @@ title: Latex Tie
 categories: [photo, sfw, latex, corset]
 image: ../www/images/ties/latex-tie.jpg
 image-alt: ""
+date: 2024-04-06
 ---
 
 ![](../www/images/ties/latex-tie.jpg)

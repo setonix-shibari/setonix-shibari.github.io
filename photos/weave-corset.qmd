@@ -3,6 +3,7 @@ title: Weave Corset
 categories: [photo, nsfw, corset]
 image: ../www/images/ties/weave-corset.jpg
 image-alt: ""
+date: 2024-06-15
 ---
 
 ![](../www/images/ties/weave-corset.jpg)

@@ -3,6 +3,7 @@ title: Cored Square Knot Corset
 categories: [photo]
 image: ../www/images/ties/cored-square-knot-corset.jpg
 image-alt: ""
+date: 2024-02-19
 ---
 
 ![](../www/images/ties/cored-square-knot-corset.jpg)

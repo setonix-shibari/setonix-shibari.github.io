@@ -4,16 +4,16 @@ date: 2025-01-21
 categories: [workshop]
 image: ../www/images/start-to-art/start-to-art.jpg
 image-alt: ""
-frontpage: false
-description: Announcing a 3-day luxury retreat in Scotland March 28-30 featuring decorative rope by me and photography by Captured Erotica
+frontpage: true
+description: Announcing a 3-day luxury retreat in Scotland September 19-21 featuring decorative rope by me and photography by Captured Erotica
 ---
 
 ::: {.callout-warning}
-This workshop has been delayed -- a new date should be announced soon
+This workshop date has moved from March 28-30 to September 19-21
 :::
 
 ![](../www/images/start-to-art/start-to-art.jpg)
 
-I’ve been hinting at an announcement for a few weeks and it’s finally here! TeVincula is organising a 3-day luxury retreat in Scotland (March 28-30) and invited the incredibly talented photographer CapturedErotica and me to teach. We will give workshops on tying decorative designs and functional bondage, then capturing them through artistic photography. I’m so looking forward to seeing what we can create together.
+TeVincula is organising a 3-day luxury retreat in Scotland (September 19-21) and invited the incredibly talented photographer CapturedErotica and me to teach. We will give workshops on tying decorative designs and functional bondage, then capturing them through artistic photography. I’m so looking forward to seeing what we can create together.
 
 [Info and tickets](https://tevincula.com/shibari-weekend-glasgow/)

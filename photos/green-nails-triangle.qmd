@@ -1,8 +1,9 @@
 ---
 title: Green Nails Triangle
-categories: [photo, sfw-ish]
+categories: [photo, sfw-ish, corset, nails]
 image: ../www/images/ties/green-nails-triangle.jpg
 image-alt: ""
+date: 2025-02-09
 ---
 
 

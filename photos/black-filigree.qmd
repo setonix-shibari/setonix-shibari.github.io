@@ -1,8 +1,9 @@
 ---
 title: Black Filigree Corset
-categories: [photo, nsfw, corset]
+categories: [photo, nsfw, corset, rosettes]
 image: ../www/images/ties/black-filigree.jpg
 image-alt: ""
+date: 2024-12-05
 credits: 
   design: Setonix
   rigger: Setonix

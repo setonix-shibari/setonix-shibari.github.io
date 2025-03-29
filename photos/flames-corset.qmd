@@ -3,6 +3,7 @@ title: Flames Corset
 categories: [photo, sfw, corset]
 image: ../www/images/ties/flames-corset.jpg
 image-alt: ""
+date: 2024-01-31
 credits: 
   design: Setonix
   rigger: Setonix

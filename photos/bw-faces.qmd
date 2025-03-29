@@ -1,0 +1,11 @@
+---
+title: B&W Faces
+categories: [photo, nsfw, corset, b&w, face, collage]
+image: ../www/images/ties/bw-faces.jpg
+image-alt: ""
+date: 2025-03-23
+---
+
+
+![](../www/images/ties/bw-faces.jpg)
+

@@ -1,9 +1,12 @@
 ---
 title: Mermaid Glitch
-categories: [photo]
+categories: [photo, sfw, mermaid]
 image: ../www/images/ties/mermaid-glitch.jpg
 image-alt: ""
+date: 2024-02-15
 ---
+
+New mermaid tie. I’m not entirely sure it works with the glitch effect red and blue ropes, but I’m pleased with the way it forces me to be super-consistent with the hitches.
 
 ![](../www/images/ties/mermaid-glitch.jpg)
 

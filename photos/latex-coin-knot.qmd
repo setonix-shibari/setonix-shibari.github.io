@@ -3,6 +3,7 @@ title: Latex Coin Knot
 categories: [photo, nsfw, latex]
 image: ../www/images/ties/latex-coin-knot.jpg
 image-alt: ""
+date: 2024-07-04
 ---
 
 ![](../www/images/ties/latex-coin-knot.jpg)

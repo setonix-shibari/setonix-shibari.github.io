@@ -3,6 +3,7 @@ title: Time War Red Demo
 categories: [photo, sfw-ish, time war, corset]
 image: ../www/images/ties/time-war-red-demo.jpg
 image-alt: ""
+date: 2024-08-27
 credits: 
   design: Setonix
   rigger: Setonix

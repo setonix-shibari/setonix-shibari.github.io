@@ -3,6 +3,7 @@ title: Green Purple Corset
 categories: [photo, nsfw, corset]
 image: ../www/images/ties/green-purple-corset.jpg
 image-alt: ""
+date: 2024-08-25
 ---
 
 ![](../www/images/ties/green-purple-corset.jpg)

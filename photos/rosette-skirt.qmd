@@ -1,8 +1,9 @@
 ---
 title: Rosette Skirt
-categories: [photo, nsfw, rosettes, hobble skirt]
+categories: [photo, nsfw, big rosette, hobble skirt]
 image: ../www/images/ties/rosette-skirt.jpg
 image-alt: ""
+date: 2024-10-17
 ---
 
 ![](../www/images/ties/rosette-skirt.jpg)

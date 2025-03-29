@@ -3,6 +3,7 @@ title: Rainbow Csk 4
 categories: [photo, nsfw, rainbow, cored square knot]
 image: ../www/images/ties/rainbow-csk-4.jpg
 image-alt: ""
+date: 2025-02-14
 ---
 
 

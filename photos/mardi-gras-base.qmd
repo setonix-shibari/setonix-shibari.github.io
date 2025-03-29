@@ -1,0 +1,12 @@
+---
+title: Mardi Gras Base
+categories: [photo, nsfw,corset,  base]
+image: ../www/images/ties/mardi-gras-base.jpg
+image-alt: ""
+date: 2025-03-02
+---
+
+The base for my Mardi Gras tie.
+
+![](../www/images/ties/mardi-gras-base.jpg)
+

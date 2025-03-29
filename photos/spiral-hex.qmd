@@ -1,0 +1,11 @@
+---
+title: Spiral Hex
+categories: [photo, nsfw, corset]
+image: ../www/images/ties/spiral-hex.jpg
+image-alt: ""
+date: 2024-08-05
+---
+
+
+![](../www/images/ties/spiral-hex.jpg)
+

@@ -1,8 +1,9 @@
 ---
 title: Rainbow Joy
-categories: [photo, nsfw, rainbow]
+categories: [photo, nsfw, rainbow, asymmetric]
 image: ../www/images/ties/rainbow-joy.jpg
 image-alt: ""
+date: 2024-09-15
 ---
 
 ![](../www/images/ties/rainbow-joy.jpg)

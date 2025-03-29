@@ -3,6 +3,7 @@ title: CSK Heart
 categories: [photo, sfw-ish, cored square knot]
 image: ../www/images/ties/csk-heart.jpg
 image-alt: ""
+date: 2025-02-09
 ---
 
 

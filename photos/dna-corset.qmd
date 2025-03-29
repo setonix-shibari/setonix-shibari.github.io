@@ -3,6 +3,7 @@ title: DNA Corset
 categories: [photo, nsfw, corset]
 image: ../www/images/ties/dna-corset.jpg
 image-alt: ""
+date: 2024-02-22
 ---
 
 ![](../www/images/ties/dna-corset.jpg)

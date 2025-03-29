@@ -1,8 +1,9 @@
 ---
 title: Black And White Filigree
-categories: [photo, nsfw, b&w, corset]
+categories: [photo, nsfw, b&w, corset, rosettes]
 image: ../www/images/ties/black-and-white-filigree.jpg
 image-alt: ""
+date: 2024-12-05
 credits: 
   design: Setonix
   rigger: Setonix

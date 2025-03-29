@@ -1,8 +1,9 @@
 ---
 title: Heart Friction
-categories: [photo, sfw-ish, corset]
+categories: [photo, sfw-ish, corset, heart]
 image: ../www/images/ties/heart-friction.jpg
 image-alt: ""
+date: 2025-01-15
 ---
 
 ![](../www/images/ties/heart-friction.jpg)

@@ -1,8 +1,9 @@
 ---
 title: Growing Roses
-categories: [photo, nsfw, rosettes, corset]
+categories: [photo, nsfw, rosettes, corset, kinktober]
 image: ../www/images/ties/growing-roses.jpg
 image-alt: ""
+date: 2024-10-20
 credits: 
   design: Setonix
   rigger: Setonix

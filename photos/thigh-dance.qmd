@@ -1,9 +1,12 @@
 ---
 title: Thigh Dance
-categories: [photo, nsfw]
+categories: [photo, nsfw, kinktober]
 image: ../www/images/ties/thigh-dance.jpg
 image-alt: ""
+date: 2024-10-15
 ---
+
+Day 15 of #kinktober with the @Shibari_Study prompt of “imbalance”
 
 ![](../www/images/ties/thigh-dance.jpg)
 

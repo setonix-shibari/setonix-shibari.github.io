@@ -3,6 +3,7 @@ title: Rope Camp
 categories: [photo, sfw, corset]
 image: ../www/images/ties/rope-camp.jpg
 image-alt: ""
+date: 2024-07-14
 ---
 
 ![](../www/images/ties/rope-camp.jpg)

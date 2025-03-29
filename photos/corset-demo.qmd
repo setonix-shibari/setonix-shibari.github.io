@@ -3,6 +3,7 @@ title: Corset Demo
 categories: [photo, sfw, corset]
 image: ../www/images/ties/corset-demo.jpg
 image-alt: ""
+date: 2024-08-22
 ---
 
 ![](../www/images/ties/corset-demo.jpg)

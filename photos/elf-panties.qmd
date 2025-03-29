@@ -3,6 +3,7 @@ title: Elf Panties
 categories: [photo]
 image: ../www/images/ties/elf-panties.jpg
 image-alt: ""
+date: 2024-07-06
 ---
 
 ![](../www/images/ties/elf-panties.jpg)
