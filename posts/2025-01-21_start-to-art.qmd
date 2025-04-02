@@ -1,7 +1,7 @@
 ---
 title: Start to Art
 date: 2025-09-28
-categories: [workshop]
+categories: [workshop, in person, Scotland]
 image: ../www/images/start-to-art/start-to-art.jpg
 image-alt: ""
 frontpage: true

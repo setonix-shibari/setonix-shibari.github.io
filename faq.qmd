@@ -49,7 +49,11 @@ Most of the ties I post are improvised, so sometimes I’m not even sure how I d
 
 ### Do you teach workshops?
 
-I don’t have any immediate plans to do online workshops, but I’d be up for teaching in-person workshops on self-tying corsets. DM me to enquire. If we get enough people signed up, I'll be teaching a weekend workshop with [Captured Erotica](https://www.capturederotica.com/) hosted by TeVincula March 28-30, 2025 ([details here](https://tevincula.com/shibari-weekend-glasgow/)).
+I don’t have any immediate plans to do online workshops, but I’d be up for teaching in-person workshops on self-tying corsets. DM me to enquire. 
+
+* I'm teaching an intro to self-tied corsets at the [Uncensored Market](posts/2025-06-07_uncensored-market.html) June 7th
+
+* If we get enough people signed up, I'll be teaching a weekend workshop with [Captured Erotica](https://www.capturederotica.com/) hosted by TeVincula September 19-21, 2025 ([details here](https://tevincula.com/shibari-weekend-glasgow/)).
 
 ### Where did you get those cute panties?
 
@@ -59,13 +63,13 @@ The rainbow and purple/green swirl pants are from an Etsy seller who isn’t onl
 
 ::: {#fig-pants layout-ncol=4}
 
-![](www/images/ties-sfw/pants-watermelon.jpg)
+![](www/images/demos/pants-watermelon.jpg)
 
-![](www/images/ties-sfw/pants-moon.jpg)
+![](www/images/demos/pants-moon.jpg)
 
-![](www/images/ties-sfw/pants-rainbow.jpg)
+![](www/images/demos/pants-rainbow.jpg)
 
-![](www/images/ties-sfw/pants-swirl.jpg)
+![](www/images/demos/pants-swirl.jpg)
 :::
 
 
