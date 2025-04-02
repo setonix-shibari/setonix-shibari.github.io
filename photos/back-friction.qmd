@@ -1,6 +1,6 @@
 ---
 title: Back Friction
-categories: [photo, back, butt, sfw-ish, corset]
+categories: [back, butt, sfw-ish, corset]
 image: ../www/images/ties/back-friction.jpg
 image-alt: ""
 date: 2025-01-17

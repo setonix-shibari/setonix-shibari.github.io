@@ -1,6 +1,6 @@
 ---
 title: Hishi-ish Grab
-categories: [photo, nsfw, corset]
+categories: [nsfw, corset]
 image: ../www/images/ties/hishi-ish-grab.jpg
 image-alt: ""
 date: 2025-03-15

@@ -1,6 +1,6 @@
 ---
 title: Silver Dress with Red Hobble Skirt
-categories: [photo, sfw, dress, hobble skirt]
+categories: [sfw, dress, hobble skirt]
 image: ../www/images/ties/dress-silver-red.jpg
 image-alt: ""
 date: 2025-01-12

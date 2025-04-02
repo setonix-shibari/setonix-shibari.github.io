@@ -1,6 +1,6 @@
 ---
 title: Green Eiffel Tower
-categories: [photo, nsfw, corset, big rosette]
+categories: [nsfw, corset, big rosette]
 image: ../www/images/ties/green-eiffel-tower.jpg
 image-alt: ""
 date: 2025-03-16

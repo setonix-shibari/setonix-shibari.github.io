@@ -1,6 +1,6 @@
 ---
 title: Red & Black CSK In
-categories: [photo, nsfw, corset, cored square knot]
+categories: [nsfw, corset, cored square knot]
 image: ../www/images/ties/csk-red-black-in.jpg
 image-alt: ""
 date: 2025-02-26

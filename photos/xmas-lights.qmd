@@ -1,6 +1,6 @@
 ---
 title: Xmas Lights
-categories: [photo, nsfw, corset, face]
+categories: [nsfw, corset, face]
 image: ../www/images/ties/xmas-lights.jpg
 image-alt: ""
 date: 2024-11-04

@@ -1,6 +1,6 @@
 ---
 title: Latex Tie Collage
-categories: [photo, sfw, latex, corset, collage]
+categories: [sfw, latex, corset, collage]
 image: ../www/images/ties/latex-tie-collage.jpg
 image-alt: ""
 date: 2024-04-06

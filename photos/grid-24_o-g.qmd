@@ -1,6 +1,6 @@
 ---
 title: Grid Corset with Orange Base and Green Boning
-categories: [photo, grid, corset, nsfw]
+categories: [grid, corset, nsfw]
 image: ../www/images/grid/24_o-g.jpg
 image-alt: ""
 date: 2025-01-12

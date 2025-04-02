@@ -1,6 +1,6 @@
 ---
 title: CRM Green Pink Hands
-categories: [photo, nsfw, corset, rosettes, asymmetric]
+categories: [nsfw, corset, rosettes, asymmetric]
 image: ../www/images/ties/crm-green-pink-hands.jpg
 image-alt: ""
 date: 2025-03-27

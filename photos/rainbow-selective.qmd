@@ -1,6 +1,6 @@
 ---
 title: Rainbow Wraps
-categories: [photo, corset, nsfw, rainbow, selective colour]
+categories: [corset, nsfw, rainbow, selective colour]
 image: ../www/images/ties/rainbow-selective.jpg
 image-alt: ""
 date: 2024-02-24

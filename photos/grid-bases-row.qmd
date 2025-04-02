@@ -1,6 +1,6 @@
 ---
 title: Rainbow Row of Grid Bases
-categories: [photo, nsfw, grid, base, selective colour, rainbow]
+categories: [nsfw, grid, base, selective colour, rainbow]
 image: ../www/images/grid/grid-bases-row.jpg
 image-alt: ""
 date: 2025-01-26

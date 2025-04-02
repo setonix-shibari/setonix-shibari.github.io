@@ -1,6 +1,6 @@
 ---
 title: Red Rosettes
-categories: [photo, nsfw, rosettes]
+categories: [nsfw, rosettes]
 image: ../www/images/ties/red-rosettes.jpg
 image-alt: ""
 date: 2024-12-14

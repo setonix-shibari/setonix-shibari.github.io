@@ -1,6 +1,6 @@
 ---
 title: St Paddy Side
-categories: [photo, nsfw, corset, rosettes]
+categories: [nsfw, corset, rosettes]
 image: ../www/images/ties/st-paddy-side.jpg
 image-alt: ""
 date: 2025-03-17

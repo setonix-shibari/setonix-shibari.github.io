@@ -1,6 +1,6 @@
 ---
 title: Knee Socks Corset
-categories: [photo, socks, nsfw, corset]
+categories: [socks, nsfw, corset]
 image: ../www/images/ties/knee-socks-corset.jpg
 image-alt: ""
 date: 2024-08-29

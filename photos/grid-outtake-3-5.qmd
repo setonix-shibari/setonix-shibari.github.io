@@ -1,6 +1,6 @@
 ---
 title: Grid Corset with Yellow Base and Blue Boning
-categories: [photo, grid, corset, nsfw]
+categories: [grid, corset, nsfw]
 image: ../www/images/grid-outtakes/3-5.jpg
 image-alt: ""
 date: 2025-01-18

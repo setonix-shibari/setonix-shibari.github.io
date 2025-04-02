@@ -1,6 +1,6 @@
 ---
 title: CRM Green Pink Up
-categories: [photo, nsfw, corset, face, rosettes, asymmetric]
+categories: [nsfw, corset, face, rosettes, asymmetric]
 image: ../www/images/ties/crm-green-pink-up.jpg
 image-alt: ""
 date: 2025-03-27

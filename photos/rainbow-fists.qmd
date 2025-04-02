@@ -1,6 +1,6 @@
 ---
 title: Rainbow Fists
-categories: [photo, corset, nsfw, rainbow]
+categories: [corset, nsfw, rainbow]
 image: ../www/images/ties/rainbow-fists.jpg
 image-alt: ""
 date: 2024-05-30

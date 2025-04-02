@@ -1,6 +1,6 @@
 ---
 title: Stretch Arm
-categories: [photo, sfw-ish]
+categories: [sfw-ish]
 image: ../www/images/ties/stretch-arm.jpg
 image-alt: ""
 date: 2024-11-04

@@ -1,6 +1,6 @@
 ---
 title: Blue and Purple Arch
-categories: [photo, nsfw, corset]
+categories: [nsfw, corset]
 image: ../www/images/ties/blue-purple-arch.jpg
 image-alt: ""
 date: 2024-11-08

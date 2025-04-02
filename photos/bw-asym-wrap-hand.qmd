@@ -1,6 +1,6 @@
 ---
 title: B&W Asym Wrap Hand
-categories: [photo, nsfw, corset, b&w, asymmetric]
+categories: [nsfw, corset, b&w, asymmetric]
 image: ../www/images/ties/bw-asym-wrap-hand.jpg
 image-alt: ""
 date: 2025-03-23

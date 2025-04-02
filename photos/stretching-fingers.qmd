@@ -1,6 +1,6 @@
 ---
 title: Stretching Fingers
-categories: [photo, b&w, nsfw, corset]
+categories: [b&w, nsfw, corset]
 image: ../www/images/ties/stretching-fingers.jpg
 image-alt: ""
 date: 2024-12-05

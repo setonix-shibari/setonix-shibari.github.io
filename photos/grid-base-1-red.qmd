@@ -1,6 +1,6 @@
 ---
 title: Grid Base - Red
-categories: [photo, nsfw, grid, base, selective colour]
+categories: [nsfw, grid, base, selective colour]
 image: ../www/images/grid/grid-base-1-red.jpg
 image-alt: ""
 date: 2025-01-06

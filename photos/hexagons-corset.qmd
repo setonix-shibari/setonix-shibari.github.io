@@ -1,6 +1,6 @@
 ---
 title: Hexagons Corset
-categories: [photo, nsfw, corset]
+categories: [nsfw, corset]
 image: ../www/images/ties/hexagons-corset.jpg
 image-alt: ""
 date: 2024-02-14

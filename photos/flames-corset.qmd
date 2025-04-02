@@ -1,6 +1,6 @@
 ---
 title: Flames Corset
-categories: [photo, sfw, corset]
+categories: [sfw, corset]
 image: ../www/images/ties/flames-corset.jpg
 image-alt: ""
 date: 2024-01-31

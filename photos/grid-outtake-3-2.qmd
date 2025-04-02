@@ -1,6 +1,6 @@
 ---
 title: Grid Corset with Yellow Base and Orange Boning
-categories: [photo, grid, corset, nsfw, piercing]
+categories: [grid, corset, nsfw, piercing]
 image: ../www/images/grid-outtakes/3-2.jpg
 image-alt: ""
 date: 2025-01-18

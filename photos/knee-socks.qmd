@@ -1,6 +1,6 @@
 ---
 title: Knee Socks
-categories: [photo, sfw, socks]
+categories: [sfw, socks]
 image: ../www/images/ties/knee-socks.jpg
 image-alt: ""
 date: 2024-08-29

@@ -1,6 +1,6 @@
 ---
 title: Xmas Tie
-categories: [photo, nsfw, corset]
+categories: [nsfw, corset]
 image: ../www/images/ties/xmas-tie.jpg
 image-alt: ""
 date: 2024-11-22

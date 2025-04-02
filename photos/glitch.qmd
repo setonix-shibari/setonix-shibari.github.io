@@ -1,6 +1,6 @@
 ---
 title: Glitch
-categories: [photo, sfw, corset]
+categories: [sfw, corset]
 image: ../www/images/ties/glitch.jpg
 image-alt: ""
 date: 2024-01-31

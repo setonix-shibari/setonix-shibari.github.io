@@ -1,6 +1,6 @@
 ---
 title: Black Filigree Corset
-categories: [photo, nsfw, corset, rosettes]
+categories: [nsfw, corset, rosettes]
 image: ../www/images/ties/black-filigree.jpg
 image-alt: ""
 date: 2024-12-05

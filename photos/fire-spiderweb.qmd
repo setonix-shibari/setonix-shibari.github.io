@@ -1,6 +1,6 @@
 ---
 title: Fire Spiderweb
-categories: [photo, nsfw, spiderweb, corset, asymmetric]
+categories: [nsfw, spiderweb, corset, asymmetric]
 image: ../www/images/ties/fire-spiderweb.jpg
 image-alt: ""
 date: 2024-08-20

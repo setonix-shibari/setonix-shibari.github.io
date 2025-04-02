@@ -1,6 +1,6 @@
 ---
 title: B&W Pre Base Hair
-categories: [photo, nsfw, b&w, face]
+categories: [nsfw, b&w, face]
 image: ../www/images/ties/bw-pre-base-hair.jpg
 image-alt: ""
 date: 2025-03-23

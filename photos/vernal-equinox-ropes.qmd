@@ -1,6 +1,6 @@
 ---
 title: Vernal Equinox Ropes
-categories: [photo, nsfw]
+categories: [nsfw]
 image: ../www/images/ties/vernal-equinox-ropes.jpg
 image-alt: ""
 date: 2025-03-20

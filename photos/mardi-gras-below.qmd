@@ -1,6 +1,6 @@
 ---
 title: Mardi Gras Below
-categories: [photo, nsfw, corset, rosettes]
+categories: [nsfw, corset, rosettes]
 image: ../www/images/ties/mardi-gras-below.jpg
 image-alt: ""
 date: 2025-03-02

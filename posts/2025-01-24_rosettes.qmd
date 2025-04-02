@@ -1,7 +1,7 @@
 ---
 title: Rosette Friction Tutorial
 date: 2025-01-24
-categories: [photo, tutorial]
+categories: [tutorial]
 image: ../www/images/demos/rosette-tutorial.jpg
 image-alt: A 9-part image of the steps of a rosette hitch being tied
 frontpage: false

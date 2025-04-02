@@ -1,6 +1,6 @@
 ---
 title: Rainbow Spiderweb
-categories: [photo, rainbow, spiderweb, corset, nsfw, asymmetric]
+categories: [rainbow, spiderweb, corset, nsfw, asymmetric]
 image: ../www/images/ties/rainbow-spiderweb.jpg
 image-alt: ""
 date: 2024-09-21

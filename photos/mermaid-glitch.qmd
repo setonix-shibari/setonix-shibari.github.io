@@ -1,6 +1,6 @@
 ---
 title: Mermaid Glitch
-categories: [photo, sfw, mermaid]
+categories: [sfw, mermaid]
 image: ../www/images/ties/mermaid-glitch.jpg
 image-alt: ""
 date: 2024-02-15

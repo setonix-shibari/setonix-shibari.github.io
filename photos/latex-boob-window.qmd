@@ -1,6 +1,6 @@
 ---
 title: Latex Boob Window
-categories: [photo, sfw-ish, latex, no ropes]
+categories: [sfw-ish, latex, no ropes]
 image: ../www/images/ties/latex-boob-window.jpg
 image-alt: ""
 date: 2024-10-25

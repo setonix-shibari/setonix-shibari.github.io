@@ -1,6 +1,6 @@
 ---
 title: Orange Arrow
-categories: [photo, corset, nsfw]
+categories: [corset, nsfw]
 image: ../www/images/ties/orange-arrow.jpg
 image-alt: ""
 date: 2024-03-24

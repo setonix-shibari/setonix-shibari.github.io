@@ -1,6 +1,6 @@
 ---
 title: Purple Cupcake
-categories: [photo, corset, nsfw, cupcake]
+categories: [corset, nsfw, cupcake]
 image: ../www/images/ties/purple-cupcake.jpg
 image-alt: ""
 date: 2024-08-10

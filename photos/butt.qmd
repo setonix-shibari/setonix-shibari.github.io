@@ -1,6 +1,6 @@
 ---
 title: Butt
-categories: [photo, butt, sfw-ish]
+categories: [butt, sfw-ish]
 image: ../www/images/ties/butt.jpg
 image-alt: ""
 date: 2024-07-12

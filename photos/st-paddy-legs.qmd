@@ -1,6 +1,6 @@
 ---
 title: St Paddy Legs
-categories: [photo, nsfw, corset, rosettes]
+categories: [nsfw, corset, rosettes]
 image: ../www/images/ties/st-paddy-legs.jpg
 image-alt: ""
 date: 2025-03-17

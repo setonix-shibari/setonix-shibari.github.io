@@ -1,6 +1,6 @@
 ---
 title: B&W Art Nouveau Hips
-categories: [photo, nsfw, corset, b&w]
+categories: [nsfw, corset, b&w]
 image: ../www/images/ties/bw-art-nouveau-hips.jpg
 image-alt: ""
 date: 2025-03-23

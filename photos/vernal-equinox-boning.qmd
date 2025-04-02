@@ -1,6 +1,6 @@
 ---
 title: Vernal Equinox Boning
-categories: [photo, nsfw]
+categories: [nsfw]
 image: ../www/images/ties/vernal-equinox-boning.jpg
 image-alt: ""
 date: 2025-03-20

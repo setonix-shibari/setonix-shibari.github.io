@@ -1,6 +1,6 @@
 ---
 title: Green Corset over Bodysuit
-categories: [photo, sfw, big rosette, corset]
+categories: [sfw, big rosette, corset]
 image: ../www/images/ties/sorcha-green.jpg
 image-alt: ""
 date: 2025-03-10

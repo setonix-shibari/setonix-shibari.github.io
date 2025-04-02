@@ -1,6 +1,6 @@
 ---
 title: Arm Harness
-categories: [photo, sfw-ish, asymmetric]
+categories: [sfw-ish, asymmetric]
 image: ../www/images/ties/arm-harness.jpg
 image-alt: ""
 date: 2024-11-04

@@ -1,6 +1,6 @@
 ---
 title: Net Corset
-categories: [photo, corset, nsfw, asymmetric]
+categories: [corset, nsfw, asymmetric]
 image: ../www/images/ties/net-corset.jpg
 image-alt: ""
 date: 2024-08-05

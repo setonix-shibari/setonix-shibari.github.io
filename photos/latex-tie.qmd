@@ -1,6 +1,6 @@
 ---
 title: Latex Tie
-categories: [photo, sfw, latex, corset]
+categories: [sfw, latex, corset]
 image: ../www/images/ties/latex-tie.jpg
 image-alt: ""
 date: 2024-04-06
