@@ -1,7 +1,7 @@
 ---
 title: Black Rose Corset
 categories: [photo, nsfw, corset, rosettes]
-image: ../www/images/ties/black-rose-corset.jpg
+image: ../www/images/ties/black-rose-hip.jpg
 image-alt: ""
 date: 2024-11-20
 credits: 
@@ -11,4 +11,12 @@ credits:
   photo: Setonix
 ---
 
+::: {#fig-black-rose layout-ncol=3}
+
 ![](../www/images/ties/black-rose-corset.jpg)
+
+![](../www/images/ties/black-rose-zombie.jpg)
+
+![](../www/images/ties/black-rose-hip.jpg)
+
+:::

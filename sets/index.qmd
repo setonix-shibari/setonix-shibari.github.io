@@ -1,0 +1,15 @@
+---
+title: "Sets"
+listing:
+  template: ../templates/photos.ejs
+  contents: "."
+  sort: ["date desc", "image"]
+  page-size: 100
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  date-format: iso
+  fields: [title, image, categories]
+page-layout: full
+title-block-banner: false
+---

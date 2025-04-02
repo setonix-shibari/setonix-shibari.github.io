@@ -1,0 +1,33 @@
+---
+title: St Paddy
+categories: [photo, nsfw, corset, rosettes]
+image: ../www/images/ties/st-paddy-thumbs.jpg
+image-alt: ""
+date: 2025-03-17
+---
+
+My St Patrick's Day design, using 4 sets of green jute and one set of green linen ropes.
+
+::: {layout-ncol=3}
+
+![](../www/images/ties/st-paddy-thumbs.jpg)
+
+![](../www/images/ties/st-paddy-cover.jpg)
+
+![](../www/images/ties/st-paddy-front-2.jpg)
+
+![](../www/images/ties/st-paddy-back.jpg)
+
+![](../www/images/ties/st-paddy-front.jpg)
+
+![](../www/images/ties/st-paddy-hands.jpg)
+
+![](../www/images/ties/st-paddy-hips.jpg)
+
+![](../www/images/ties/st-paddy-legs.jpg)
+
+![](../www/images/ties/st-paddy-side.jpg)
+
+![](../www/images/ties/st-paddy-waist.jpg)
+
+:::

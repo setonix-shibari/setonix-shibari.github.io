@@ -1,0 +1,25 @@
+---
+title: Alternating CSK
+categories: [photo, nsfw, corset, cored square knot, garters]
+image: ../www/images/ties/csk-alt-hands.jpg
+image-alt: ""
+date: 2025-03-06
+---
+
+Alternating cored square knots, starting with the base, then some boning patterns, then I took the core out and decided that looked pretty cool, ending with the rope kisses from this tie.
+
+::: {layout-ncol=3}
+
+![](../www/images/ties/csk-alt-base.jpg)
+
+![](../www/images/ties/csk-alt-front.jpg)
+
+![](../www/images/ties/csk-alt-hands.jpg)
+
+![](../www/images/ties/csk-alt-legs.jpg)
+
+![](../www/images/ties/csk-alt-no-core.jpg)
+
+![](../www/images/ties/csk-alt-rope-kisses.jpg)
+
+:::

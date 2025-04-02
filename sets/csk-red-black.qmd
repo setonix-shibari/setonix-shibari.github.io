@@ -1,0 +1,20 @@
+---
+title: Red & Black CSK
+categories: [photo, nsfw, corset, cored square knot]
+image: ../www/images/ties/csk-red-black-front.jpg
+image-alt: ""
+date: 2025-02-26
+---
+
+::: {layout-ncol=3}
+
+![](../www/images/ties/csk-red-black-front.jpg)
+
+![](../www/images/ties/csk-red-black-in.jpg)
+
+![](../www/images/ties/csk-red-black-out.jpg)
+
+![](../www/images/ties/csk-red-black.jpg)
+
+:::
+

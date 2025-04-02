@@ -1,0 +1,29 @@
+---
+title: CRM Green Pink Thigh
+categories: [photo, nsfw, corset, rosettes, asymmetric]
+image: ../www/images/ties/crm-green-pink-thigh.jpg
+image-alt: ""
+date: 2025-03-27
+---
+
+A few steps leading up to a Charles Rennie Mackintosh inspired design.
+
+::: {layout-ncol=3}
+
+![](../www/images/ties/crm-green-pink-base-curve.jpg)
+
+![](../www/images/ties/crm-green-pink-base.jpg)
+
+![](../www/images/ties/crm-green-pink-base-rose.jpg)
+
+![](../www/images/ties/crm-green-pink-hands.jpg)
+
+![](../www/images/ties/crm-green-pink-nails.jpg)
+
+![](../www/images/ties/crm-green-pink-thigh.jpg)
+
+![](../www/images/ties/crm-green-pink-foot.jpg)
+
+![](../www/images/ties/crm-green-pink-up.jpg)
+
+:::

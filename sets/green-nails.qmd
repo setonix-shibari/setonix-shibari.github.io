@@ -1,0 +1,21 @@
+---
+title: Green Nail Demure
+categories: [photo, sfw, corset, nails]
+image: ../www/images/ties/green-nail-demure.jpg
+image-alt: ""
+date: 2025-02-09
+---
+
+::: {layout-ncol=3}
+
+![](../www/images/ties/green-nail-demure.jpg)
+
+![](../www/images/ties/green-nails-chest.jpg)
+
+![](../www/images/ties/green-nails-hidden.jpg)
+
+![](../www/images/ties/green-nails-triangle.jpg)
+
+![](../www/images/ties/pink-rosette-green-nails.jpg)
+
+:::

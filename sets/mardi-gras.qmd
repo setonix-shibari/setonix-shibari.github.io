@@ -1,0 +1,29 @@
+---
+title: Mardi Gras Curve
+categories: [photo, nsfw, corset, rosettes]
+image: ../www/images/ties/mardi-gras-curve.jpg
+image-alt: ""
+date: 2025-03-02
+---
+
+My Mardi Gras tie, starting with the base and ending with the kisses. The colours each have a specific meaning: Purple represents justice, royalty, and creativity; Green represents faith, new beginnings, and abundance; and Gold represents power, the power of god, and the Easter octave.
+
+::: {layout-ncol=3}
+
+![](../www/images/ties/mardi-gras-base.jpg)
+
+![](../www/images/ties/mardi-gras-arms.jpg)
+
+
+![](../www/images/ties/mardi-gras-below.jpg)
+
+![](../www/images/ties/mardi-gras-cover.jpg)
+
+![](../www/images/ties/mardi-gras-curve.jpg)
+
+![](../www/images/ties/mardi-gras-hands.jpg)
+
+![](../www/images/ties/mardi-gras-rope-kisses.jpg)
+
+:::
+
