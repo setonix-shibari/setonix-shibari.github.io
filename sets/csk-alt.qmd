@@ -1,6 +1,6 @@
 ---
 title: Alternating CSK
-categories: [photo, nsfw, corset, cored square knot, garters]
+categories: [nsfw, corset, cored square knot, garters]
 image: ../www/images/ties/csk-alt-hands.jpg
 image-alt: ""
 date: 2025-03-06
