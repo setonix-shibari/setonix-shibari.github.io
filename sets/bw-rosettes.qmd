@@ -1,0 +1,46 @@
+---
+title: B&W Rosettes
+categories: [nsfw, corset, rosettes]
+image: ../www/images/ties/bw-rosettes_peace.jpg
+image-alt: ""
+date: 2025-04-12
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+::: {#fig-bw-rosettes layout-ncol=3}
+
+![](../www/images/ties/bw-rosettes_casual.jpg)
+
+![](../www/images/ties/bw-rosettes_back.jpg)
+
+![](../www/images/ties/bw-rosettes_asym.jpg)
+
+![](../www/images/ties/bw-rosettes_demure.jpg)
+
+![](../www/images/ties/bw-rosettes_elbows.jpg)
+
+![](../www/images/ties/bw-rosettes_hips.jpg)
+
+![](../www/images/ties/bw-rosettes_lips.jpg)
+
+![](../www/images/ties/bw-rosettes_peace.jpg)
+
+![](../www/images/ties/bw-rosettes_shift.jpg)
+
+![](../www/images/ties/bw-rosettes_shoulder.jpg)
+
+![](../www/images/ties/bw-rosettes_smile.jpg)
+
+![](../www/images/ties/bw-rosettes_thighs.jpg)
+
+![](../www/images/ties/bw-rosettes_wow.jpg)
+
+![](../www/images/ties/bw-rosettes-peek.jpg)
+
+![](../www/images/ties/bw-rosettes_shrug.jpg)
+
+:::

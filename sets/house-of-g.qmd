@@ -1,0 +1,32 @@
+---
+title: House of G
+categories: [nsfw, corset, rosettes, boots, rosettes]
+image: ../www/images/ties/house-of-g-close.jpg
+image-alt: ""
+date: 2025-04-12
+credits: 
+  design: Setonix
+  rigger: [Setonix, SorchaWillow]
+  model: Setonix
+  photo: House of G
+---
+
+I got some totally amazing photos at [House of G](https://houseofg.co.uk/). The session was fun and professional, and you can see for yourself that the photos are stunning. I can definitely recommend them for boudoir photography! (They are not sponsoring me ;)
+
+::: {#fig-house-of-g layout-ncol=3}
+
+![](../www/images/ties/house-of-g-close.jpg)
+
+![](../www/images/ties/house-of-g-anime.jpg)
+
+![](../www/images/ties/house-of-g-back.jpg)
+
+:::
+
+::: {#fig-house-of-g-pose layout-ncol=2}
+
+![](../www/images/ties/house-of-g-pose-dark.jpg)
+
+![](../www/images/ties/house-of-g-pose-light.jpg)
+
+:::

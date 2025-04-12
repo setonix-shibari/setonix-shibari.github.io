@@ -1,5 +1,5 @@
 dir <- "www/images/new"
-cats <- ", nsfw"
+cats <- "nsfw, corset, b&w, rosettes"
 
 
 images <- list.files(dir, ".", recursive = TRUE, full.names = TRUE)
@@ -12,7 +12,7 @@ for (img in images) {
   
   if (!file.exists(file)) {
     title <- base |> 
-      gsub("-", " ", x = _) |> 
+      gsub("[-_]", " ", x = _) |> 
       stringr::str_to_title()
 
       # title <- paste("Grid Corset with", dplyr::case_match(substr(base, 1, 1), 
@@ -41,9 +41,10 @@ for (img in images) {
 
     txt <- sprintf("---
 title: %s
-categories: [photo%s]
+categories: [%s]
 image: ../%s
 image-alt: \"\"
+date: 2025-03-21
 ---
 
 

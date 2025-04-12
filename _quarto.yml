@@ -5,7 +5,7 @@ project:
   resources: [CNAME, .nojekyll]
 
 execute:
-  freeze: auto
+  freeze: true
 
 website:
   title: "Setonix"
@@ -24,13 +24,17 @@ website:
       - sets/index.qmd
       - faq.qmd
       - text: "![](/www/images/logos/fetlife.svg){height='1.3em'}"
+        aria-label: FetLife
         href: https://fetlife.com/users/16247449
-      - icon: instagram
-        href: https://instagram.com/setonix.shibari
       - text: "![](/www/images/logos/tumblr.svg){height='1em'}"
+        aria-label: Tumblr
         href: https://www.tumblr.com/setonix-shibari
       - text: "![](/www/images/logos/bsky.svg){height='1em'}"
+        aria-label: BlueSky
         href: https://bsky.app/profile/setonix-shibari.bsky.social
+      - icon: envelope-heart-fill
+        aria-label: Contact Me
+        href: mailto:setonix.shibari@gmail.com
   page-footer:
     right: 
       - text: "![](/www/images/logos/cc-by-nc-sa.svg){height='1.5em'}"
