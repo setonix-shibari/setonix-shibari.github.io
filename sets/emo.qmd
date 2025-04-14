@@ -1,7 +1,7 @@
 ---
 title: Emotions
 categories: [nsfw, corset]
-image: ../www/images/gifs/emo_6.gif
+image: ../www/images/ties/emo_happy-2-squish.jpg
 image-alt: ""
 date: 2025-04-14
 ---
