@@ -1,7 +1,7 @@
 ---
 title: Black Rose Corset
-categories: [nsfw, corset, rosettes]
-image: ../www/images/ties/black-rose-hip.jpg
+categories: [nsfw, corset, rosettes, garters]
+image: ../www/images/ties/black-rose_hip.jpg
 image-alt: ""
 date: 2024-11-20
 credits: 
@@ -13,10 +13,44 @@ credits:
 
 ::: {#fig-black-rose layout-ncol=3}
 
-![](../www/images/ties/black-rose-corset.jpg)
+![](../www/images/ties/black-rose_zombie.jpg)
 
-![](../www/images/ties/black-rose-zombie.jpg)
+![](../www/images/ties/black-rose_straight.jpg)
 
-![](../www/images/ties/black-rose-hip.jpg)
+![](../www/images/ties/black-rose_close.jpg)
+
+![](../www/images/ties/black-rose_drape.jpg)
+
+![](../www/images/ties/black-rose_elbows.jpg)
+
+![](../www/images/ties/black-rose_faerie.jpg)
+
+![](../www/images/ties/black-rose_hip.jpg)
+
+![](../www/images/ties/black-rose_hip2.jpg)
+
+![](../www/images/ties/black-rose_below.jpg)
+
+![](../www/images/ties/black-rose_breast.jpg)
+
+![](../www/images/ties/black-rose_butt.jpg)
+
+![](../www/images/ties/black-rose_knee.jpg)
+
+![](../www/images/ties/black-rose_lean.jpg)
+
+![](../www/images/ties/black-rose_legs.jpg)
+
+![](../www/images/ties/black-rose_back.jpg)
+
+![](../www/images/ties/black-rose_muscles.jpg)
+
+![](../www/images/ties/black-rose_muscles2.jpg)
+
+![](../www/images/ties/black-rose_praise.jpg)
+
+![](../www/images/ties/black-rose_prim.jpg)
+
+![](../www/images/ties/black-rose_sit.jpg)
 
 :::

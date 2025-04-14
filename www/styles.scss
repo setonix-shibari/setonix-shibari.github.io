@@ -76,6 +76,16 @@ p.card-img-top > img {
   object-fit: contain;
 }
 
+.photo-list.photoset > li {
+  height: 12em;
+  width: 9em;
+}
+
+.photo-list.photoset img {
+  height: 12em;
+  width: 9em;
+}
+
 .photo-list .listing-name {
   display: none;
 }

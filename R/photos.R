@@ -1,8 +1,9 @@
-dir <- "www/images/ties"
-cats <- "nsfw, corset, emotion"
+dir <- "../s/new"
+cats <- "nsfw, corset, rosettes, garters"
+date <- "2024-12-20"
 
 
-images <- list.files(dir, "^emo_", recursive = TRUE, full.names = TRUE)
+images <- list.files(dir, ".", recursive = TRUE, full.names = TRUE)
 images <- gsub(dir, "www/images/ties", images)
 #images <- images[!grepl("1-1|2-2|3-3|4-4|5-5|6-6", images)]
 for (img in images) {
@@ -37,8 +38,6 @@ for (img in images) {
       title <- gsub("^Bw", "B&W", title)
     } else {
       newcats <- cats
-      title <- gsub("\\d ", "", title)
-      title <- gsub("^Emo", "Emotion", title)
     }
 
     txt <- sprintf("---
@@ -46,12 +45,12 @@ title: %s
 categories: [%s]
 image: ../%s
 image-alt: \"\"
-date: 2025-04-14
+date: %s
 ---
 
 
 ![](../%s)
-", title, newcats, img, img)
+", title, newcats, img, date, img)
     
     write(txt, file)
   }

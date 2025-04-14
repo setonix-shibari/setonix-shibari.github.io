@@ -30,11 +30,15 @@ add_logo <- function(stim,
   
   offset <- sprintf("+%d+%d", round(logo_offset), round(logo_offset))
   
-  stim |> 
-    image_func("composite", 
-               composite_image = webmorphR:::get_imgs(logo),
-               offset = offset,
-               gravity = gravity) |>
+  lapply(seq_along(stim), \(i) {
+    x <- stim[[i]] |>
+      image_func("composite", 
+               composite_image = webmorphR:::get_imgs(logo[[i]]),
+               offset = offset[[i]],
+               gravity = gravity[[i]])
+    x[[1]]
+  }) |>
+    as_stimlist() |>
     pad(pad, fill = logo_color)
 }
 
@@ -125,6 +129,30 @@ write_stim(hottogo,
 
 
 ![](../www/images/composites/hottogo.gif)
+
+## Black Rose
+
+```{r}
+br <- read_stim("../../s/new/") |>
+  resize(height = 1000)
+
+logo_rotate <- c(0, 90, -90, -90, 90,
+                 0, -90, 0, -90, 90,
+                 0, 0, 90, 0, 0,
+                 0, -90, 0, -90, 0)
+gravity <- c("northwest", "southeast", "northwest", "southwest", "northeast",
+             "northwest", "southwest", "northwest", "northwest", "southeast", 
+             "southwest", "southeast", "northeast", "southwest", "southwest",
+             "southeast", "southwest", "northwest", "southwest", "northwest")
+
+br_logo <- add_logo(br, "firebrick4", 
+                    logo_rotate = logo_rotate, 
+                    gravity = gravity)
+
+write_stim(br_logo, "../www/images/ties/", format = "jpg")
+```
+
+
 
 ## Emo Grid
 
