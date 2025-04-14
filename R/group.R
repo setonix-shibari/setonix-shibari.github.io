@@ -1,4 +1,4 @@
-list.files("www/images/ties", "bw-rosettes") |> 
+list.files("www/images/ties", "emo_") |> 
   paste0("![](../www/images/ties/", x = _, ")\n\n") |> 
   paste(collapse = "") |>
   cat()

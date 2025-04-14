@@ -1,6 +1,6 @@
 library(webmorphR)
 
-odir <- "www/images/new/"
+odir <- "../s/new/"
 ndir <- "www/images/ties/"
 orig <- read_stim(odir, "\\.jpg")
 resized <- resize(orig, height = 1000)
