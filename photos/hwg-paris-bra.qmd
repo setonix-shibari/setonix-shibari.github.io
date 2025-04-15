@@ -1,6 +1,6 @@
 ---
 title: HwG-Paris Bra
-categories: [photo]
+categories: [nsfw, bra]
 image: ../www/images/ties/hwg-paris-bra.jpg
 image-alt: ""
 date: 2024-08-24

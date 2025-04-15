@@ -1,6 +1,6 @@
 ---
 title: First Improv Corset
-categories: [photo]
+categories: [nsfw, corset]
 image: ../www/images/ties/first-improv-corset.jpg
 image-alt: ""
 date: 2024-01-20

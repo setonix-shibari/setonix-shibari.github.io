@@ -1,6 +1,6 @@
 ---
 title: Purple Crossover
-categories: [photo]
+categories: [nsfw, corset]
 image: ../www/images/ties/purple-crossover.jpg
 image-alt: ""
 date: 2024-08-09

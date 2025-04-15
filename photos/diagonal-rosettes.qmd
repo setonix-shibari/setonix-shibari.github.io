@@ -1,6 +1,6 @@
 ---
 title: Diagonal Rosettes
-categories: [photo]
+categories: [corset, nsfw, rosettes]
 image: ../www/images/ties/diagonal-rosettes.jpg
 image-alt: ""
 date: 2024-12-22

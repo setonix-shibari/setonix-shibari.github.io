@@ -1,6 +1,6 @@
 ---
 title: Classic Setonix Corset
-categories: [photo]
+categories: [nsfw, corset]
 image: ../www/images/ties/classic-setonix-corset.jpg
 image-alt: ""
 date: 2024-06-01

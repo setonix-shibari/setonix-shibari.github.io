@@ -1,0 +1,16 @@
+---
+title: Emotions Project
+categories: [corset, nsfw, collage, gif]
+image: ../www/images/composites/emo-6.jpg
+image-alt: "36 corsets"
+date: 2025-01-26
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+
+![](../www/images/gifs/emo_6.gif)
+
