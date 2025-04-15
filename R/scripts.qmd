@@ -12,8 +12,6 @@ wm_opts(fill = "black")
 ## Logo
 
 ```{r}
-stim <- read_stim("../../s/emo-grid/", "happy")
-
 add_logo <- function(stim, 
                      logo_color = "white", 
                      logo_rotate = 0,
@@ -41,7 +39,11 @@ add_logo <- function(stim,
     as_stimlist() |>
     pad(pad, fill = logo_color)
 }
+```
 
+
+```{r}
+stim <- read_stim("../../s/emo-grid/", "happy")
 
 logo_stim <- add_logo(stim, "goldenrod", -90, pad = .01) |>
   resize(height = 1000)

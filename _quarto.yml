@@ -2,7 +2,7 @@ lang: en
 project:
   type: website
   output-dir: docs
-  resources: [CNAME, .nojekyll]
+  resources: [CNAME, .nojekyll, .well-known/atproto-did]
 
 execute:
   freeze: auto
