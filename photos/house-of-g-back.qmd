@@ -1,6 +1,6 @@
 ---
 title: House of G Back
-categories: [sfw-ish, House of G, corset, boots]
+categories: [sfw-ish, house of G, corset, boots]
 image: ../www/images/ties/house-of-g-back.jpg
 image-alt: ""
 date: 2025-04-12

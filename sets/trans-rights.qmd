@@ -1,0 +1,46 @@
+---
+title: Trans Rights
+categories: [nsfw, corset, rosettes]
+image: ../www/images/ties/trans-rights_curves.jpg
+image-alt: ""
+date: 2025-04-19
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+I made these ties the day of the protest in George Square for trans rights. 
+
+::: {#fig-trans-rights layout-ncol=3}
+
+![](../www/images/ties/trans-rights_akimbo.jpg)
+
+![](../www/images/ties/trans-rights_alt-cover.jpg)
+
+![](../www/images/ties/trans-rights_alt-diag.jpg)
+
+![](../www/images/ties/trans-rights_alt-up.jpg)
+
+![](../www/images/ties/trans-rights_close.jpg)
+
+![](../www/images/ties/trans-rights_curves.jpg)
+
+![](../www/images/ties/trans-rights_fists.jpg)
+
+![](../www/images/ties/trans-rights_front-close.jpg)
+
+![](../www/images/ties/trans-rights_front-cover.jpg)
+
+![](../www/images/ties/trans-rights_one-cover.jpg)
+
+![](../www/images/ties/trans-rights_shoulders.jpg)
+
+![](../www/images/ties/trans-rights_side-cover.jpg)
+
+![](../www/images/ties/trans-rights_t.jpg)
+
+![](../www/images/ties/trans-rights_wierd-face.jpg)
+
+:::

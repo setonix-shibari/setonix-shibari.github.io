@@ -1,6 +1,6 @@
 ---
 title: B&W Rosettes Back
-categories: [sfw, corset, b&w, rosettes, b&w, back]
+categories: [sfw-ish, corset, b&w, rosettes, b&w, back]
 image: ../www/images/ties/bw-rosettes_back.jpg
 image-alt: ""
 date: 2025-03-21

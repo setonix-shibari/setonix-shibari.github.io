@@ -154,6 +154,36 @@ br_logo <- add_logo(br, "firebrick4",
 write_stim(br_logo, "../www/images/ties/", format = "jpg")
 ```
 
+## Trans Rights
+
+```{r}
+img <- read_stim("../../s/trans-rights/") |>
+  resize(height = 1000)
+
+img
+```
+
+
+```{r}
+logo_rotate <- c(90, 0, 0, 0, -90,    0, 0, 90, 0, 0,   0, 0, -90, 90)
+gravity <- c("northwest", "northwest", "southeast", "northeast", "southwest",
+             "southeast", "southeast", "northeast", "southwest", "southwest", 
+             "northeast", "southwest", "southwest", "southeast")
+
+x <- c("#56374C", "#804548", "#38587A")
+logo_col <- x[c(1,3,1,2,3,3,1,3,2,3,3,2,3,2)]
+
+img_logo <- add_logo(img, logo_col, 
+                     logo_rotate = logo_rotate, 
+                     gravity = gravity)
+
+img_logo
+```
+
+
+```{r}
+write_stim(img_logo, "../www/images/ties/", format = "jpg", overwrite = TRUE)
+```
 
 
 ## Emo Grid

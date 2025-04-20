@@ -1,6 +1,6 @@
 ---
 title: House of G Anime
-categories: [nsfw, House of G, corset, boots, rosettes]
+categories: [nsfw, house of G, corset, boots, rosettes]
 image: ../www/images/ties/house-of-g-anime.jpg
 image-alt: ""
 date: 2025-04-12

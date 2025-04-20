@@ -1,9 +1,9 @@
-dir <- "../s/new"
-cats <- "nsfw, corset, rosettes, garters"
-date <- "2024-12-20"
+dir <- "www/images/ties"
+cats <- "nsfw, corset, rosettes"
+date <- "2025-04-19"
 
 
-images <- list.files(dir, ".", recursive = TRUE, full.names = TRUE)
+images <- list.files(dir, "trans-rights_", recursive = TRUE, full.names = TRUE)
 images <- gsub(dir, "www/images/ties", images)
 #images <- images[!grepl("1-1|2-2|3-3|4-4|5-5|6-6", images)]
 for (img in images) {
