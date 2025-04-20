@@ -1,7 +1,78 @@
 [
   {
+    "listing": "/sets/index.html",
+    "items": [
+      "/sets/trans-rights.html",
+      "/sets/emo.html",
+      "/sets/bw-rosettes.html",
+      "/sets/house-of-g.html",
+      "/sets/crm-green-pink.html",
+      "/sets/bw-art-nouveau.html",
+      "/sets/bw-asym-wrap.html",
+      "/sets/st-paddy.html",
+      "/sets/csk-alt.html",
+      "/sets/mardi-gras.html",
+      "/sets/csk-red-black.html",
+      "/sets/green-nails.html",
+      "/sets/black-rose.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2025-01-21_start-to-art.html",
+      "/posts/2025-07-11_anchor-point.html",
+      "/posts/2025-06-07_uncensored-market.html",
+      "/posts/2025-04-12_house-of-g.html",
+      "/posts/2025-02-01_csk-base.html",
+      "/posts/2025-02-02_rosette-wrap.html",
+      "/posts/2025-02-01_many-bodies.html",
+      "/posts/2025-01-27_grid-project.html",
+      "/posts/2025-01-23_back-frictions.html",
+      "/posts/2025-01-16_heart-friction.html",
+      "/posts/2025-01-10_corset_demo.html",
+      "/posts/2024-12-06_pca.html"
+    ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/2025-01-21_start-to-art.html",
+      "/posts/2025-07-11_anchor-point.html",
+      "/posts/2025-06-07_uncensored-market.html",
+      "/posts/2025-04-12_house-of-g.html",
+      "/posts/2025-02-01_csk-base.html",
+      "/posts/2025-02-02_rosette-wrap.html",
+      "/posts/2025-02-01_many-bodies.html",
+      "/posts/2025-01-27_grid-project.html",
+      "/posts/2025-01-24_rosettes.html",
+      "/posts/2025-01-23_basic-timelapse.html",
+      "/posts/2025-01-23_back-frictions.html",
+      "/posts/2025-01-18_blindfold.html",
+      "/posts/2025-01-16_heart-friction.html",
+      "/posts/2025-01-10_corset_demo.html",
+      "/posts/2025-01-10_panties-twist.html",
+      "/posts/2024-12-06_pca.html",
+      "/posts/2024-12-01_welcome.html"
+    ]
+  },
+  {
     "listing": "/photos/index.html",
     "items": [
+      "/photos/trans-rights_akimbo.html",
+      "/photos/trans-rights_alt-cover.html",
+      "/photos/trans-rights_alt-diag.html",
+      "/photos/trans-rights_alt-up.html",
+      "/photos/trans-rights_close.html",
+      "/photos/trans-rights_curves.html",
+      "/photos/trans-rights_fists.html",
+      "/photos/trans-rights_front-close.html",
+      "/photos/trans-rights_front-cover.html",
+      "/photos/trans-rights_one-cover.html",
+      "/photos/trans-rights_shoulders.html",
+      "/photos/trans-rights_side-cover.html",
+      "/photos/trans-rights_t.html",
+      "/photos/trans-rights_wierd-face.html",
       "/photos/emo_anger-1-pout.html",
       "/photos/emo_anger-2-fist.html",
       "/photos/emo_anger-3-claw.html",
@@ -309,62 +380,6 @@
       "/photos/flames-corset.html",
       "/photos/glitch.html",
       "/photos/first-improv-corset.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/2025-01-21_start-to-art.html",
-      "/posts/2025-07-11_anchor-point.html",
-      "/posts/2025-06-07_uncensored-market.html",
-      "/posts/2025-04-12_house-of-g.html",
-      "/posts/2025-02-01_csk-base.html",
-      "/posts/2025-02-02_rosette-wrap.html",
-      "/posts/2025-02-01_many-bodies.html",
-      "/posts/2025-01-27_grid-project.html",
-      "/posts/2025-01-23_back-frictions.html",
-      "/posts/2025-01-16_heart-friction.html",
-      "/posts/2025-01-10_corset_demo.html",
-      "/posts/2024-12-06_pca.html"
-    ]
-  },
-  {
-    "listing": "/sets/index.html",
-    "items": [
-      "/sets/emo.html",
-      "/sets/bw-rosettes.html",
-      "/sets/house-of-g.html",
-      "/sets/crm-green-pink.html",
-      "/sets/bw-art-nouveau.html",
-      "/sets/bw-asym-wrap.html",
-      "/sets/st-paddy.html",
-      "/sets/csk-alt.html",
-      "/sets/mardi-gras.html",
-      "/sets/csk-red-black.html",
-      "/sets/green-nails.html",
-      "/sets/black-rose.html"
-    ]
-  },
-  {
-    "listing": "/posts/index.html",
-    "items": [
-      "/posts/2025-01-21_start-to-art.html",
-      "/posts/2025-07-11_anchor-point.html",
-      "/posts/2025-06-07_uncensored-market.html",
-      "/posts/2025-04-12_house-of-g.html",
-      "/posts/2025-02-01_csk-base.html",
-      "/posts/2025-02-02_rosette-wrap.html",
-      "/posts/2025-02-01_many-bodies.html",
-      "/posts/2025-01-27_grid-project.html",
-      "/posts/2025-01-24_rosettes.html",
-      "/posts/2025-01-23_basic-timelapse.html",
-      "/posts/2025-01-23_back-frictions.html",
-      "/posts/2025-01-18_blindfold.html",
-      "/posts/2025-01-16_heart-friction.html",
-      "/posts/2025-01-10_corset_demo.html",
-      "/posts/2025-01-10_panties-twist.html",
-      "/posts/2024-12-06_pca.html",
-      "/posts/2024-12-01_welcome.html"
     ]
   }
 ]
