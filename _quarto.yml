@@ -23,6 +23,9 @@ website:
       - photos/index.qmd
       - sets/index.qmd
       - faq.qmd
+      - text: "![](/www/images/logos/patreon.svg){height='1em'}"
+        aria-label: Patreon
+        href: https://patreon.com/Setonix
       - text: "![](/www/images/logos/fetlife.svg){height='1.3em'}"
         aria-label: FetLife
         href: https://fetlife.com/users/16247449
