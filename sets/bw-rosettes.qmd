@@ -11,7 +11,7 @@ credits:
   photo: Setonix
 ---
 
-::: {#fig-bw-rosettes layout-ncol=3}
+::: {layout-ncol=3}
 
 ![](../www/images/ties/bw-rosettes_casual.jpg)
 

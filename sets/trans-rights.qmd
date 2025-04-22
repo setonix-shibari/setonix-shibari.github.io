@@ -13,7 +13,7 @@ credits:
 
 I made these ties the day of the protest in George Square for trans rights. 
 
-::: {#fig-trans-rights layout-ncol=3}
+::: {layout-ncol=3}
 
 ![](../www/images/ties/trans-rights_alt-cover.jpg)
 

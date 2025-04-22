@@ -13,7 +13,7 @@ credits:
 
 Outtakes from the grid project.
 
-::: {#fig-grid-outtakes layout-ncol=3}
+::: {layout-ncol=3}
 
 ![](../www/images/ties/grid-outtakes_blue-orange.jpg)
 

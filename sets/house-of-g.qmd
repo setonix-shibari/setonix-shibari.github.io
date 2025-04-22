@@ -13,7 +13,7 @@ credits:
 
 I got some totally amazing photos at [House of G](https://houseofg.co.uk/). The session was fun and professional, and you can see for yourself that the photos are stunning. I can definitely recommend them for boudoir photography! (They are not sponsoring me ;)
 
-::: {#fig-house-of-g layout-ncol=3}
+::: {layout-ncol=3}
 
 ![](../www/images/ties/house-of-g-close.jpg)
 
@@ -23,7 +23,7 @@ I got some totally amazing photos at [House of G](https://houseofg.co.uk/). The 
 
 :::
 
-::: {#fig-house-of-g-pose layout-ncol=2}
+::: {layout-ncol=2}
 
 ![](../www/images/ties/house-of-g-pose-dark.jpg)
 
