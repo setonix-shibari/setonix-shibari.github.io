@@ -13,9 +13,19 @@ credits:
 
 ::: {layout-ncol=3}
 
-![](../www/images/ties/bw-rosettes_casual.jpg)
+![](../www/images/ties/bw-rosettes_peace.jpg)
 
 ![](../www/images/ties/bw-rosettes_back.jpg)
+
+![](../www/images/ties/bw-rosettes_shift.jpg)
+
+:::
+
+<!--
+
+![](../www/images/ties/bw-rosettes_casual.jpg)
+
+
 
 ![](../www/images/ties/bw-rosettes_asym.jpg)
 
@@ -27,9 +37,9 @@ credits:
 
 ![](../www/images/ties/bw-rosettes_lips.jpg)
 
-![](../www/images/ties/bw-rosettes_peace.jpg)
 
-![](../www/images/ties/bw-rosettes_shift.jpg)
+
+
 
 ![](../www/images/ties/bw-rosettes_shoulder.jpg)
 
@@ -43,4 +53,4 @@ credits:
 
 ![](../www/images/ties/bw-rosettes_shrug.jpg)
 
-:::
+-->
