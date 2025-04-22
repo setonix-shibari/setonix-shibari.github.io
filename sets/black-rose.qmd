@@ -15,6 +15,13 @@ credits:
 
 ![](../www/images/ties/black-rose_zombie.jpg)
 
+![](../www/images/ties/black-rose_prim.jpg)
+
+![](../www/images/ties/black-rose_hip.jpg)
+
+:::
+
+<!---
 ![](../www/images/ties/black-rose_straight.jpg)
 
 ![](../www/images/ties/black-rose_close.jpg)
@@ -25,7 +32,6 @@ credits:
 
 ![](../www/images/ties/black-rose_faerie.jpg)
 
-![](../www/images/ties/black-rose_hip.jpg)
 
 ![](../www/images/ties/black-rose_hip2.jpg)
 
@@ -49,8 +55,6 @@ credits:
 
 ![](../www/images/ties/black-rose_praise.jpg)
 
-![](../www/images/ties/black-rose_prim.jpg)
-
 ![](../www/images/ties/black-rose_sit.jpg)
 
-:::
+-->

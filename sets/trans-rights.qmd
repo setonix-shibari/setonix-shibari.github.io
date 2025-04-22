@@ -15,9 +15,20 @@ I made these ties the day of the protest in George Square for trans rights.
 
 ::: {#fig-trans-rights layout-ncol=3}
 
+![](../www/images/ties/trans-rights_alt-cover.jpg)
+
+![](../www/images/ties/trans-rights_curves.jpg)
+
+![](../www/images/ties/trans-rights_front-close.jpg)
+
+:::
+
+<!--
+
+
 ![](../www/images/ties/trans-rights_akimbo.jpg)
 
-![](../www/images/ties/trans-rights_alt-cover.jpg)
+
 
 ![](../www/images/ties/trans-rights_alt-diag.jpg)
 
@@ -25,11 +36,9 @@ I made these ties the day of the protest in George Square for trans rights.
 
 ![](../www/images/ties/trans-rights_close.jpg)
 
-![](../www/images/ties/trans-rights_curves.jpg)
+
 
 ![](../www/images/ties/trans-rights_fists.jpg)
-
-![](../www/images/ties/trans-rights_front-close.jpg)
 
 ![](../www/images/ties/trans-rights_front-cover.jpg)
 
@@ -43,4 +52,4 @@ I made these ties the day of the protest in George Square for trans rights.
 
 ![](../www/images/ties/trans-rights_wierd-face.jpg)
 
-:::
+-->

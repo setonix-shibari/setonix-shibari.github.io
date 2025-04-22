@@ -10,13 +10,17 @@ date: 2025-03-23
 
 ![](../www/images/ties/bw-art-nouveau-eyes-closed.jpg)
 
-![](../www/images/ties/bw-art-nouveau-front.jpg)
-
-![](../www/images/ties/bw-art-nouveau-h-boning.jpg)
-
 ![](../www/images/ties/bw-art-nouveau-hand.jpg)
 
 ![](../www/images/ties/bw-art-nouveau-hip.jpg)
+
+:::
+
+<!--
+
+![](../www/images/ties/bw-art-nouveau-front.jpg)
+
+![](../www/images/ties/bw-art-nouveau-h-boning.jpg)
 
 ![](../www/images/ties/bw-art-nouveau-hips.jpg)
 
@@ -32,7 +36,7 @@ date: 2025-03-23
 
 ![](../www/images/ties/bw-art-nouveau-back.jpg)
 
-:::
+-->
 
 
 

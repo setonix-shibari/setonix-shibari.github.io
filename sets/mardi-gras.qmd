@@ -10,20 +10,28 @@ My Mardi Gras tie, starting with the base and ending with the kisses. The colour
 
 ::: {layout-ncol=3}
 
+![](../www/images/ties/mardi-gras-arms.jpg)
+
+![](../www/images/ties/mardi-gras-curve.jpg)
+
+![](../www/images/ties/mardi-gras-cover.jpg)
+
+:::
+
+<!--
+
 ![](../www/images/ties/mardi-gras-base.jpg)
 
-![](../www/images/ties/mardi-gras-arms.jpg)
+
 
 
 ![](../www/images/ties/mardi-gras-below.jpg)
 
-![](../www/images/ties/mardi-gras-cover.jpg)
 
-![](../www/images/ties/mardi-gras-curve.jpg)
 
 ![](../www/images/ties/mardi-gras-hands.jpg)
 
 ![](../www/images/ties/mardi-gras-rope-kisses.jpg)
 
-:::
+-->
 

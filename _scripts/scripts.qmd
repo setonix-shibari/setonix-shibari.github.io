@@ -9,6 +9,18 @@ library(webmorphR)
 wm_opts(fill = "black")
 ```
 
+## Banner
+
+```{r}
+sfw <- read_stim("../www/images/ties/", "(dress-silver-diag|dress-silver-red|glitch|rainbow-legs|green-hand|csk-heart)")
+
+banner <- plot_stim(sfw[c(2, 1, 7, 3, 5)], nrow = 1) |>
+  resize(width = 1600)
+
+write_stim(banner, "~/Desktop/", "banner", format = "jpg")
+```
+
+
 ## Logo
 
 ```{r}

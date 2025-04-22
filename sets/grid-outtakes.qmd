@@ -1,0 +1,30 @@
+---
+title: Grid Project Outtakes
+categories: [nsfw, corset]
+image: ../www/images/composites/grid-outtakes.jpg
+image-alt: ""
+date: 2025-01-30
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+Outtakes from the grid project.
+
+::: {#fig-grid-outtakes layout-ncol=3}
+
+![](../www/images/ties/grid-outtakes_blue-orange.jpg)
+
+![](../www/images/ties/grid-outtakes_blue-purple.jpg)
+
+![](../www/images/ties/grid-outtakes_green-orange.jpg)
+
+![](../www/images/ties/grid-outtakes_orange-blue.jpg)
+
+![](../www/images/ties/grid-outtakes_orange-red.jpg)
+
+![](../www/images/ties/grid-outtakes_purple-blue.jpg)
+
+:::
