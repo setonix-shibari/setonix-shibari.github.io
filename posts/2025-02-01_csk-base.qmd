@@ -4,7 +4,8 @@ date: 2025-02-09
 categories: [video, tutorial, corset, self-tie, timelapse]
 image: ../www/images/ties/csk.jpg
 image-alt: A cored square knot tie
-frontpage: true
+frontpage: false
+draft: true
 description: A timelapse and slower demo video of the cored square knot corset.
 ---
 
