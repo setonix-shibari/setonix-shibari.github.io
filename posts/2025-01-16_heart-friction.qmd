@@ -4,7 +4,8 @@ date: 2025-01-16
 categories: [tutorial, video, self-tie]
 image: ../www/images/demos/heart-friction.jpg
 image-alt: "Red ropes tied around a leg with the friction in the shape of a heart"
-frontpage: true
+frontpage: false
+draft: true
 description: A self-tie tutorial for a heart-shaped friction
 ---
 I worked this one out from a [photo](https://fetlife.com/users/10727486/pictures/141751096){target="_blank"} by @sweetangelvixen on Fetlife. I tried tying it the opposite direction to this first, which is possible, but not very easy. Top-to-bottom is definitely easier.
