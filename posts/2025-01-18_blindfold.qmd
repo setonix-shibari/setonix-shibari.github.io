@@ -5,6 +5,7 @@ categories: [video, self-tie, timelapse]
 image: ../www/images/demos/blindfold.jpg
 image-alt: ""
 frontpage: false
+draft: true
 description: A timelapse video of me tying a corset while blindfolded 
 ---
 
