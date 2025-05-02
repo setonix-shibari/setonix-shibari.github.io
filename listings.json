@@ -6,7 +6,6 @@
       "/posts/2025-07-11_anchor-point.html",
       "/posts/2025-06-07_uncensored-market.html",
       "/posts/2025-04-12_house-of-g.html",
-      "/posts/2025-02-01_csk-base.html",
       "/posts/2025-02-02_rosette-wrap.html",
       "/posts/2025-02-01_many-bodies.html",
       "/posts/2025-01-27_grid-project.html",
@@ -14,47 +13,6 @@
       "/posts/2025-01-16_heart-friction.html",
       "/posts/2025-01-10_corset_demo.html",
       "/posts/2024-12-06_pca.html"
-    ]
-  },
-  {
-    "listing": "/sets/index.html",
-    "items": [
-      "/sets/trans-rights.html",
-      "/sets/emo.html",
-      "/sets/bw-rosettes.html",
-      "/sets/house-of-g.html",
-      "/sets/crm-green-pink.html",
-      "/sets/bw-art-nouveau.html",
-      "/sets/bw-asym-wrap.html",
-      "/sets/st-paddy.html",
-      "/sets/csk-alt.html",
-      "/sets/mardi-gras.html",
-      "/sets/csk-red-black.html",
-      "/sets/green-nails.html",
-      "/sets/grid-outtakes.html",
-      "/sets/black-rose.html"
-    ]
-  },
-  {
-    "listing": "/posts/index.html",
-    "items": [
-      "/posts/2025-01-21_start-to-art.html",
-      "/posts/2025-07-11_anchor-point.html",
-      "/posts/2025-06-07_uncensored-market.html",
-      "/posts/2025-04-12_house-of-g.html",
-      "/posts/2025-02-01_csk-base.html",
-      "/posts/2025-02-02_rosette-wrap.html",
-      "/posts/2025-02-01_many-bodies.html",
-      "/posts/2025-01-27_grid-project.html",
-      "/posts/2025-01-24_rosettes.html",
-      "/posts/2025-01-23_basic-timelapse.html",
-      "/posts/2025-01-23_back-frictions.html",
-      "/posts/2025-01-18_blindfold.html",
-      "/posts/2025-01-16_heart-friction.html",
-      "/posts/2025-01-10_corset_demo.html",
-      "/posts/2025-01-10_panties-twist.html",
-      "/posts/2024-12-06_pca.html",
-      "/posts/2024-12-01_welcome.html"
     ]
   },
   {
@@ -263,6 +221,46 @@
       "/photos/flames-corset.html",
       "/photos/glitch.html",
       "/photos/first-improv-corset.html"
+    ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/2025-01-21_start-to-art.html",
+      "/posts/2025-07-11_anchor-point.html",
+      "/posts/2025-06-07_uncensored-market.html",
+      "/posts/2025-04-12_house-of-g.html",
+      "/posts/2025-02-02_rosette-wrap.html",
+      "/posts/2025-02-01_many-bodies.html",
+      "/posts/2025-01-27_grid-project.html",
+      "/posts/2025-01-24_rosettes.html",
+      "/posts/2025-01-23_basic-timelapse.html",
+      "/posts/2025-01-23_back-frictions.html",
+      "/posts/2025-01-18_blindfold.html",
+      "/posts/2025-01-16_heart-friction.html",
+      "/posts/2025-01-10_panties-twist.html",
+      "/posts/2025-01-10_corset_demo.html",
+      "/posts/2024-12-06_pca.html",
+      "/posts/2024-12-01_welcome.html"
+    ]
+  },
+  {
+    "listing": "/sets/index.html",
+    "items": [
+      "/sets/trans-rights.html",
+      "/sets/emo.html",
+      "/sets/bw-rosettes.html",
+      "/sets/house-of-g.html",
+      "/sets/crm-green-pink.html",
+      "/sets/bw-art-nouveau.html",
+      "/sets/bw-asym-wrap.html",
+      "/sets/st-paddy.html",
+      "/sets/csk-alt.html",
+      "/sets/mardi-gras.html",
+      "/sets/csk-red-black.html",
+      "/sets/green-nails.html",
+      "/sets/grid-outtakes.html",
+      "/sets/black-rose.html"
     ]
   }
 ]
