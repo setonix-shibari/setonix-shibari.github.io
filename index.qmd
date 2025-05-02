@@ -1,4 +1,4 @@
----
+h for photos](---
 title: ""
 listing:
   id: front-page-listings
@@ -18,9 +18,9 @@ page-layout: full
 title-block-banner: false
 ---
 
-I attended my first shibari workshop in October 2023 and quickly became hooked on rope. I'm known for colourful self-tied corsets and intricate improvised designs. I've started adding very basic demos/tutorials and hoping to improve these soon.
+I attended my first shibari workshop in October 2023 and quickly became hooked on rope. I'm known for colourful self-tied corsets and intricate improvised designs. You can access more content, including video tutorials, at [my Patreon](https://patreon.com/setonix) under free, £1 or £5 tiers (this is just the best way I've found so far to manage hosting NSFW videos).
 
 ::: {#front-page-listings}
 :::
 
-See [more posts](posts/) to search for photos, videos, and tutorials.
+See [more posts](posts/) or [search for photos](photos/).
