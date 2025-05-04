@@ -1,17 +1,13 @@
 ---
 title: Basic Corset Timelapse
 date: 2025-01-23
-categories: [timelapse, video, self-tie, demo]
+categories: [timelapse, video, self-tie, demo, patreon]
 image: ../www/images/demos/basic-tl.jpg
 image-alt: ""
 frontpage: false
 description: A timelapse of the base and boning of a basic corset
 ---
 
-The base...
+[The base](https://www.patreon.com/posts/basic-corset-128109794) and [the boning](https://www.patreon.com/posts/basic-corset-128109845) are both available on the free tier of my Patreon.
 
-{{< video ../www/videos/setonix-basic-base-tl.mp4 width="512" >}}
-
-...and the boning
-
-{{< video ../www/videos/setonix-basic-boning-tl.mp4 width="512" >}}
+![](../www/images/demos/basic-tl.jpg)

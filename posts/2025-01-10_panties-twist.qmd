@@ -1,14 +1,14 @@
 ---
 title: Panties in a Twist
 date: 2025-01-10
-categories: [tutorial, video, self-tie]
+categories: [tutorial, video, self-tie, patreon]
 image: ../www/images/demos/panties-twist.jpg
 image-alt: ""
 frontpage: false
-draft: true
 description: A self-tie tutorial for my design, panties in a twist
 ---
 
-This takes a single 8-meter (6mm) rope for me, but is a very customisable tie since you just use up the ends with the filigree pattern.
+This takes a single 8-meter (5mm) rope for me, but is a very customisable tie since you just use up the ends with the drum weave pattern. [Video free on my Patreon](https://www.patreon.com/posts/panties-in-twist-128109571).
 
-{{< video ../www/videos/setonix-panties-twist.mp4 width="512" >}}
+![](../www/images/demos/panties-twist.jpg)
+

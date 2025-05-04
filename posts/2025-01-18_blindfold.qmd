@@ -1,14 +1,15 @@
 ---
 title: Blindfolded Tie
 date: 2025-01-18
-categories: [video, self-tie, timelapse]
+categories: [video, self-tie, timelapse, patreon]
 image: ../www/images/demos/blindfold.jpg
 image-alt: ""
 frontpage: false
-draft: true
 description: A timelapse video of me tying a corset while blindfolded 
 ---
 
 I originally tied this for the [Shibari Study](https://shibaristudy.com/) Kinktober challenge. Its a good exercise for figuring out how to use touch to assess a tie. 
 
-{{< video ../www/videos/setonix-blindfold-timelapse.mp4 width="512" >}}
+![](../www/images/demos/blindfold.jpg)
+
+Available [on my Patreon](https://www.patreon.com/posts/blindfold-128052339) on the £1 tier. 

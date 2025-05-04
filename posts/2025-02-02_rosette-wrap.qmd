@@ -1,14 +1,16 @@
 ---
 title: Rosette Wrap Video Tutorial
 date: 2025-02-02
-categories: [tutorial, video, self-tie]
+categories: [tutorial, video, self-tie, patreon]
 image: ../www/images/demos/rosette-video.jpg
 image-alt: A still of a rosette hitch being tied
-frontpage: true
+frontpage: false
 description: A self-tie video tutorial for rosette wraps
 ---
 
-If mobility allows, it's good to practice this one on your leg, so I did the video from that point of view.
+One of my favourite decorative frictions. If mobility allows, it's good to practice this one on your leg, so I did the video from that point of view. You can access the video for [free on my Patreon](https://www.patreon.com/posts/rosette-wrap-128109309).
 
-{{< video ../www/videos/setonix-rosette-wrap.mp4 width="480" >}}
+
+![](../www/images/demos/rosette-video.jpg)
+
 

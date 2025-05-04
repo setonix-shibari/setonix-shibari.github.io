@@ -1,14 +1,14 @@
 ---
 title: Corset Demo
 date: 2025-01-10
-categories: [tutorial, video, self-tie]
+categories: [tutorial, video, self-tie, patreon, sfw]
 image: ../www/images/ties/corset-demo.jpg
 image-alt: ""
 frontpage: false
-draft: true
 description: A self-tie tutorial for my demo corset at Ropes in Space 
 ---
 
-I taught this corset at Ropes in Space in 2024. It takes two 8-meter (6mm) ropes for me.
+I taught this corset at Ropes in Space in 2024. It takes two 8-meter (5mm) ropes for me. Access it for [free on my patreon](https://www.patreon.com/posts/ris-102-corset-128109005).
 
-{{< video ../www/videos/setonix-corset-demo.mp4 width="512" >}}
+![](../www/images/ties/corset-demo.jpg)
+
