@@ -12,11 +12,9 @@ There is a 35-minute tutorial video on the video tier of my [Patreon](https://pa
 
 ### Reference images
 
-![](../www/images/uncensored/uncensored-full.jpg)
-
-::: {layout-ncol=3}
-
 ![](../www/images/uncensored/uncensored-front.jpg)
+
+::: {layout-ncol=2}
 
 ![](../www/images/uncensored/uncensored-side.jpg)
 
