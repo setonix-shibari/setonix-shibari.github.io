@@ -1,0 +1,23 @@
+---
+title: Self-Tie Corset Workshop at the Uncensored Market
+date: 2025-06-07
+categories: [tutorial]
+image: ../www/images/uncensored-front.jpg
+image-alt: ""
+frontpage: true
+description: Material and links for the self-tie corset workshop
+---
+
+Some reference images
+
+![](../www/images/uncensored/uncensored-full.jpg)
+
+::: {layout-ncol=3}
+
+![](../www/images/uncensored/uncensored-front.jpg)
+
+![](../www/images/uncensored/uncensored-side.jpg)
+
+![](../www/images/uncensored/uncensored-back.jpg)
+
+:::
