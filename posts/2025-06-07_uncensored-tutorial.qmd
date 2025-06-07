@@ -2,13 +2,15 @@
 title: Self-Tie Corset Workshop at the Uncensored Market
 date: 2025-06-07
 categories: [tutorial]
-image: ../www/images/uncensored-front.jpg
+image: ../www/images/uncensored/uncensored-front.jpg
 image-alt: ""
 frontpage: true
 description: Material and links for the self-tie corset workshop
 ---
 
-Some reference images
+There is a 35-minute tutorial video on the video tier of my [Patreon](https://patreon.com/setonix) and also at [SproutVideo](https://sproutvideo.com/videos/) (workshop participants will be given the password).
+
+### Reference images
 
 ![](../www/images/uncensored/uncensored-full.jpg)
 
@@ -21,3 +23,11 @@ Some reference images
 ![](../www/images/uncensored/uncensored-back.jpg)
 
 :::
+
+### Links for further learning
+
+* [Setonix's Patreon](https://patreon.com/setonix) - photo outtakes, timelapse videos, demos, and tutorials (NSFW)
+
+* [The Duchy](https://www.theduchy.com/free-tutorials-and-courses/) -  rope education, the free sections on context, planning, risk management and safety are essential to starting 
+
+* [Shibari Study](https://shibaristudy.com/) - High-quality, diverse shibari tutorials at all levels
