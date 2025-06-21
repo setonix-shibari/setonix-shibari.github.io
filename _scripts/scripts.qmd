@@ -9,6 +9,23 @@ library(webmorphR)
 wm_opts(fill = "black")
 ```
 
+```{r}
+img <- read_stim("../../s/new/")
+resize <- resize(img, height = 1000)
+write_stim(resize, "../www/images/pride/",format =  "jpg")
+
+order <- c(
+  "pride-1", "pride-2", "trans-1", "trans-2",
+  "bisexual-1", "bisexual-2", "pansexual-1", "pansexual-2", 
+  "genderqueer-1", "genderqueer-2", "nonbinary-1", "nonbinary-2"
+)
+
+pride <- plot_stim(resize[order], nrow = 3)
+write_stim(pride, "../www/images/composites/", "pride", "jpg")
+pride
+```
+
+
 ## Banner
 
 ```{r}
@@ -55,9 +72,10 @@ add_logo <- function(stim,
 
 
 ```{r}
-stim <- read_stim("../../s/emo-grid/", "happy")
+stim <- read_stim("../../s/biflag/") |>
+  resize(height = 1000)
 
-logo_stim <- add_logo(stim, "goldenrod", -90, pad = .01) |>
+logo_stim <- add_logo(stim, "darkorchid4", -90, pad = .01) |>
   resize(height = 1000)
 
 logo_stim
@@ -197,6 +215,59 @@ img_logo
 write_stim(img_logo, "../www/images/ties/", format = "jpg", overwrite = TRUE)
 ```
 
+## Bi Flag Grid
+
+```{r}
+stim_orig <- read_stim("../../s/biflag/") 
+stim <- stim_orig |>
+  rotate(c(0,0,0, -90, -90, 
+           -90, 0,0,0,0,
+           -90,0,0, 0, -90,
+           -90, 0, -90, 0, 0,
+           0, 0, -90, 0, 0), 
+         keep_size = FALSE)
+  resize(height = 1000)
+
+stim |> label()
+```
+
+
+```{r}
+flag_imgs <- list(
+  pink = stim[c("bi-flag_arms-crossed", "bi-flag_smile", "bi-flag_tilt-elbows")],
+  purple = stim[c("bi-flag_shoulder", "bi-flag_pigtails", "bi-flag_look")],
+  blue = stim[c("bi-flag_haughty", "bi-flag_elbows","bi-flag_twist")]
+)
+
+bi_colours <- c("hotpink4", "darkorchid4", "dodgerblue4") |>
+  sapply(color_conv, to = "hex")
+
+flag_imgs_col <- list()
+for (i in 1:3) {
+  flag_imgs_col[[i]] <- flag_imgs[[i]] |>
+    image_func("colorize", 
+               opacity = 20, 
+               color = bi_colours[i]) |>
+    pad(20, fill = bi_colours[i])
+}
+
+flag_imgs_col[[1]][3] <-  mirror(flag_imgs_col[[1]][3])
+flag_imgs_col[[2]][2] <-  mirror(flag_imgs_col[[2]][2])
+flag_imgs_col[[2]][3] <-  mirror(flag_imgs_col[[2]][3])
+flag_imgs_col[[3]][1] <-  mirror(flag_imgs_col[[3]][1])
+flag_imgs_col[[3]][2] <-  mirror(flag_imgs_col[[3]][2])
+
+flag_all <- do.call(c, flag_imgs_col) |>
+  plot_stim(nrow = 3, byrow = TRUE)
+
+write_stim(flag_all, 
+           "../www/images/composites/", 
+           "bi-flag", 
+           format = "jpg", 
+           overwrite = TRUE)
+```
+
+
 
 ## Emo Grid
 
@@ -302,3 +373,9 @@ write_stim(back_grid,
 ```
 
 ![](../www/images/composites/emo-back.jpg)
+
+
+```{r}
+
+```
+

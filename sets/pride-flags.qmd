@@ -1,0 +1,16 @@
+---
+title: Pride Flags
+categories: [nsfw, corset, rosettes, garters]
+image: ../www/images/pride/pride-1.jpg
+image-alt: ""
+date: 2025-06-21
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+Happy Pride! 
+
+![raibow, trans, biseual, pansexual, genderqueer, and nonbinary flag  inspired ties](../www/images/composites/pride.jpg)
