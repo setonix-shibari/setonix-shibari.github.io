@@ -1,0 +1,15 @@
+---
+title: Diamond Top Tutorial
+date: 2025-07-27
+categories: [tutorials]
+image: ../www/images/demos/diamond-top.jpg
+image-alt: ""
+frontpage: true
+description: I just posted a quick tutorial on my Patreon for how to start the diamond top base pattern I use in a bunch of corsets.
+---
+
+![](../www/images/demos/diamond-top.jpg)
+
+This requires a rope at least long enough to wrap around your upper chest about 5 times when doubled (I use an 8m/5mm jute rope here). You can attach further ropes to continue corset wraps. 
+
+<https://www.patreon.com/posts/diamond-top-135058005>

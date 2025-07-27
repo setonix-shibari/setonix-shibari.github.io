@@ -21,14 +21,16 @@ website:
     right:
       - posts/index.qmd
       - photos/index.qmd
-      - sets/index.qmd
       - faq.qmd
       - text: "![](/www/images/logos/patreon.svg){height='1em'}"
         aria-label: Patreon
         href: https://patreon.com/Setonix
       - text: "![](/www/images/logos/fetlife.svg){height='1.3em'}"
         aria-label: FetLife
-        href: https://fetlife.com/users/16247449
+        href: https://fetlife.com/Setonix
+      - text: "![](/www/images/logos/instagram.svg){height='1.3em'}"
+        aria-label: Instagram
+        href: https://www.instagram.com/setonix.art/
       - text: "![](/www/images/logos/tumblr.svg){height='1em'}"
         aria-label: Tumblr
         href: https://www.tumblr.com/setonix-shibari

@@ -2,30 +2,15 @@
 title: House of G
 date: 2025-04-12
 categories: [photoset]
-image: ../www/images/ties/house-of-g-close.jpg
+image: ../www/images/ties/house-of-g-back.jpg
 image-alt: A close-up of a corset featuring big red rosettes
 frontpage: true
 description: I got some totally amazing photos at [House of G](https://houseofg.co.uk/).
 ---
 
-The session was fun and professional, and you can see for yourself that the photos are stunning. I can definitely recommend them for boudoir photography! (They are not sponsoring me ;)
+The session was fun and professional, and you can see for yourself that the photos are stunning (the NSFW ones are on FetLife). I can definitely recommend them for boudoir photography! (They are not sponsoring me ;)
 
-::: {#fig-house-of-g layout-ncol=3}
 
-![](../www/images/ties/house-of-g-close.jpg)
-
-![](../www/images/ties/house-of-g-anime.jpg)
 
 ![](../www/images/ties/house-of-g-back.jpg)
-
-:::
-
-::: {#fig-house-of-g-pose layout-ncol=2}
-
-![](../www/images/ties/house-of-g-pose-dark.jpg)
-
-![](../www/images/ties/house-of-g-pose-light.jpg)
-
-:::
-
 

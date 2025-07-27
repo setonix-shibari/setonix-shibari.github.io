@@ -1,0 +1,14 @@
+---
+title: Single Rope Busk
+categories: [sfw-ish, corset]
+image: ../www/images/ties/single-rope-busk.jpg
+image-alt: ""
+date: 2025-07-14
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+![](../www/images/ties/single-rope-busk.jpg)

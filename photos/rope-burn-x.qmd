@@ -1,0 +1,14 @@
+---
+title: Pasties
+categories: [sfw-ish, corset]
+image: ../www/images/ties/rope-burn-x.jpg
+image-alt: ""
+date: 2025-07-14
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: AltFormat
+---
+
+![](../www/images/ties/rope-burn-x.jpg)
