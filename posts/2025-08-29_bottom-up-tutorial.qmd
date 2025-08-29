@@ -1,0 +1,15 @@
+---
+title: Bottom-Up Tutorial
+date: 2025-08-29
+categories: [tutorial]
+image: ../www/images/ties/bottom-up.jpg
+image-alt: ""
+frontpage: true
+description: I just posted an 18-minute tutorial on my Patreon for this tie.
+---
+
+![](../www/images/ties/bottom-up.jpg)
+
+I used three 8m/5mm linen ropes (from Casual Ropes) here: two green ones for the base and a purple one for the boning. You may need more or fewer base ropes depending on rope length and body size.
+
+<https://www.patreon.com/posts/bottom-up-corset-137633208>

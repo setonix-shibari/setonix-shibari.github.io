@@ -1,0 +1,16 @@
+---
+title: Blue Shapes
+categories: [sfw-ish, no ropes]
+image: ../www/images/ties/shapes-blue.jpg
+image-alt: ""
+date: 2025-08-29
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+An experiment for a future project.
+
+![](../www/images/ties/shapes-blue.jpg)

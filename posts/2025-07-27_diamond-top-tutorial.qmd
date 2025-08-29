@@ -1,7 +1,7 @@
 ---
 title: Diamond Top Tutorial
 date: 2025-07-27
-categories: [tutorials]
+categories: [tutorial]
 image: ../www/images/demos/diamond-top.jpg
 image-alt: ""
 frontpage: true

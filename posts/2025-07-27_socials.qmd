@@ -1,7 +1,7 @@
 ---
 title: Social Media Update
 date: 2025-07-27
-categories: [tutorials]
+categories: []
 image: ../www/images/demos/rope-double-wall.jpg
 image-alt: "Rainbow rope ends"
 frontpage: true

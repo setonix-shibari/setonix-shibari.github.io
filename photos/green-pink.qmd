@@ -1,0 +1,14 @@
+---
+title: Green and Pink Go Good Together
+categories: [sfw-ish, corset]
+image: ../www/images/ties/green-pink.jpg
+image-alt: ""
+date: 2025-08-12
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+![](../www/images/ties/green-pink.jpg)

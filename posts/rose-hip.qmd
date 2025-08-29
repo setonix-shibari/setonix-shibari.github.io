@@ -1,0 +1,16 @@
+---
+title: Rose Hip
+categories: [sfw, corset]
+image: ../www/images/ties/rose-hip.jpg
+image-alt: ""
+date: 2025-06-07
+credits: 
+  design: Setonix
+  rigger: Setonix
+  model: Setonix
+  photo: Setonix
+---
+
+One of my favourite ways to use up rope.
+
+![](../www/images/ties/rose-hip.jpg)
